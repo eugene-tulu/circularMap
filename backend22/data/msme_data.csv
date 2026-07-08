@@ -1,0 +1,821 @@
+enterprise_id,enterprise_name,county,sub_county,ward,value_chain,ownership_category,employees,registration_status,year_established,capacity_score,support_need,latitude,longitude
+1,Nairobi Plastics Recyclers 001,Nairobi,Makadara,Makadara,Plastics and Packaging,PWD-owned,15,Registered,2015,5,Access to finance,-1.332595,36.772078
+2,Nairobi Packaging Solutions 002,Nairobi,Embakasi East,Embakasi East,Plastics and Packaging,Youth-owned,4,Registered,2019,5,Equipment/machinery,-1.291136,36.736676
+3,Nairobi Packaging Solutions 003,Nairobi,Makadara,Makadara,Plastics and Packaging,Youth-owned,2,Registered,2020,3,Access to finance,-1.306029,36.781917
+4,Nairobi Green Compost Co 004,Nairobi,Kasarani,Kasarani,Organic Waste,Women-owned,12,Registered,2025,4,Access to finance,-1.236817,36.863252
+5,Nairobi Construction Waste Reuse 005,Nairobi,Kamukunji,Kamukunji,Circular Construction Materials,PWD-owned,4,Not Registered,2021,3,Access to finance,-1.347488,36.74442
+6,Nairobi Black Soldier Fly Farm 006,Nairobi,Makadara,Makadara,Organic Waste,Women-owned,20,Registered,2024,3,Certification/standards,-1.23196,36.761178
+7,Nairobi Textile Waste Hub 007,Nairobi,Makadara,Makadara,Textiles,Youth-owned,20,Registered,2015,5,Market linkages,-1.338034,36.815107
+8,Nairobi Textile Upcyclers 008,Nairobi,Mathare,Mathare,Textiles,Youth-owned,6,Registered,2022,5,Certification/standards,-1.325318,36.780093
+9,Nairobi Electro Recovery 009,Nairobi,Embakasi East,Embakasi East,Electrical and Electronic Waste (E-waste),Women-owned,15,Registered,2024,3,Certification/standards,-1.334422,36.776293
+10,Nairobi TechWaste Solutions 010,Nairobi,Embakasi East,Embakasi East,Electrical and Electronic Waste (E-waste),Women-owned,3,Registered,2025,1,Access to finance,-1.202581,36.7568
+11,Nairobi E-Waste Hub 011,Nairobi,Kibra,Kibra,Electrical and Electronic Waste (E-waste),Women-owned,1,Not Registered,2016,3,Business registration support,-1.312842,36.83916
+12,Nairobi Construction Waste Reuse 012,Nairobi,Mathare,Mathare,Circular Construction Materials,Women-owned,25,Not Registered,2019,4,Access to finance,-1.266727,36.751979
+13,Nairobi Green Building Materials 013,Nairobi,Kamukunji,Kamukunji,Circular Construction Materials,Youth-owned,4,Registered,2017,5,Business registration support,-1.217827,36.888593
+14,Nairobi Reclaimed Materials 014,Nairobi,Kibra,Kibra,Circular Construction Materials,Youth-owned,4,Registered,2024,3,Technical training,-1.27429,36.819849
+15,Nairobi Plastics Recyclers 015,Nairobi,Makadara,Makadara,Plastics and Packaging,General/Other,20,Registered,2023,2,Market linkages,-1.294622,36.744358
+16,Nairobi Thrift & Mend 016,Nairobi,Kamukunji,Kamukunji,Textiles,Youth-owned,25,Registered,2019,5,Certification/standards,-1.225062,36.808065
+17,Nairobi TechWaste Solutions 017,Nairobi,Dagoretti North,Dagoretti North,Electrical and Electronic Waste (E-waste),Youth-owned,1,Registered,2018,1,Technical training,-1.220169,36.813168
+18,Nairobi Green Building Materials 018,Nairobi,Kibra,Kibra,Circular Construction Materials,Youth-owned,2,Registered,2019,1,Technical training,-1.369321,36.845499
+19,Nairobi Circuit Reclaim 019,Nairobi,Kamukunji,Kamukunji,Electrical and Electronic Waste (E-waste),Women-owned,10,Not Registered,2018,4,Market linkages,-1.358284,36.900293
+20,Nairobi Plastics Recyclers 020,Nairobi,Makadara,Makadara,Plastics and Packaging,Women-owned,20,Not Registered,2016,1,Certification/standards,-1.304511,36.808144
+21,Nairobi Repurposed Plastics Co 021,Nairobi,Makadara,Makadara,Plastics and Packaging,Youth-owned,10,Registered,2017,2,Business registration support,-1.321026,36.887001
+22,Nairobi Black Soldier Fly Farm 022,Nairobi,Embakasi East,Embakasi East,Organic Waste,General/Other,1,Registered,2023,5,Access to finance,-1.224693,36.745469
+23,Nairobi Plastics Recyclers 023,Nairobi,Mathare,Mathare,Plastics and Packaging,Women-owned,1,Registered,2015,2,Equipment/machinery,-1.229335,36.761836
+24,Nairobi TechWaste Solutions 024,Nairobi,Mathare,Mathare,Electrical and Electronic Waste (E-waste),PWD-owned,25,Registered,2018,5,Certification/standards,-1.240777,36.783245
+25,Nairobi Organic Waste Solutions 025,Nairobi,Kibra,Kibra,Organic Waste,PWD-owned,15,Registered,2023,1,Access to finance,-1.277848,36.829495
+26,Nairobi Textile Upcyclers 026,Nairobi,Kamukunji,Kamukunji,Textiles,Women-owned,2,Not Registered,2024,2,Equipment/machinery,-1.36768,36.765348
+27,Nairobi Textile Waste Hub 027,Nairobi,Kamukunji,Kamukunji,Textiles,Women-owned,6,Not Registered,2018,5,Business registration support,-1.374947,36.746657
+28,Nairobi Organic Waste Solutions 028,Nairobi,Kasarani,Kasarani,Organic Waste,Youth-owned,1,Registered,2024,3,Access to finance,-1.310859,36.852804
+29,Nairobi Plastics Recyclers 029,Nairobi,Kamukunji,Kamukunji,Plastics and Packaging,General/Other,6,Registered,2022,1,Market linkages,-1.343732,36.779636
+30,Nairobi Construction Waste Reuse 030,Nairobi,Kamukunji,Kamukunji,Circular Construction Materials,Women-owned,20,Registered,2017,5,Technical training,-1.205006,36.877178
+31,Nairobi Compost Works 031,Nairobi,Kibra,Kibra,Organic Waste,Youth-owned,6,Registered,2025,2,Certification/standards,-1.248465,36.759881
+32,Nairobi Green Compost Co 032,Nairobi,Dagoretti North,Dagoretti North,Organic Waste,Youth-owned,1,Registered,2017,4,Technical training,-1.336898,36.895369
+33,Nairobi Organic Waste Solutions 033,Nairobi,Makadara,Makadara,Organic Waste,Women-owned,25,Not Registered,2023,1,Access to finance,-1.30257,36.85892
+34,Nairobi PET Collectors 034,Nairobi,Kamukunji,Kamukunji,Plastics and Packaging,Youth-owned,6,Registered,2018,3,Access to finance,-1.282645,36.809262
+35,Nairobi PET Collectors 035,Nairobi,Mathare,Mathare,Plastics and Packaging,General/Other,3,Not Registered,2017,2,Market linkages,-1.281321,36.889348
+36,Nairobi E-Waste Recyclers 036,Nairobi,Embakasi East,Embakasi East,Electrical and Electronic Waste (E-waste),General/Other,3,Not Registered,2016,2,Technical training,-1.249518,36.791693
+37,Nairobi E-Waste Recyclers 037,Nairobi,Mathare,Mathare,Electrical and Electronic Waste (E-waste),General/Other,4,Registered,2025,3,Technical training,-1.297376,36.767823
+38,Nairobi Kitenge Revival 038,Nairobi,Kasarani,Kasarani,Textiles,General/Other,12,Registered,2023,3,Certification/standards,-1.331951,36.744396
+39,Nairobi Compost Works 039,Nairobi,Kibra,Kibra,Organic Waste,Women-owned,2,Registered,2020,3,Access to finance,-1.224233,36.778919
+40,Nairobi Black Soldier Fly Farm 040,Nairobi,Kamukunji,Kamukunji,Organic Waste,General/Other,1,Not Registered,2015,2,Technical training,-1.204938,36.752716
+41,Nairobi Reclaimed Materials 041,Nairobi,Makadara,Makadara,Circular Construction Materials,PWD-owned,2,Not Registered,2020,3,Equipment/machinery,-1.252603,36.865451
+42,Nairobi Construction Waste Reuse 042,Nairobi,Makadara,Makadara,Circular Construction Materials,Youth-owned,8,Registered,2019,3,Certification/standards,-1.229457,36.861456
+43,Nairobi Green Building Materials 043,Nairobi,Embakasi East,Embakasi East,Circular Construction Materials,PWD-owned,15,Registered,2023,2,Business registration support,-1.30642,36.901165
+44,Nairobi PET Collectors 044,Nairobi,Kasarani,Kasarani,Plastics and Packaging,Women-owned,10,Registered,2018,3,Equipment/machinery,-1.344267,36.873337
+45,Nairobi EcoBrick Works 045,Nairobi,Mathare,Mathare,Circular Construction Materials,Youth-owned,12,Registered,2024,1,Technical training,-1.219887,36.875184
+46,Nairobi Compost Works 046,Nairobi,Mathare,Mathare,Organic Waste,Youth-owned,1,Registered,2022,2,Market linkages,-1.21074,36.774176
+47,Nairobi Recycled Blocks Co 047,Nairobi,Dagoretti North,Dagoretti North,Circular Construction Materials,Youth-owned,8,Registered,2025,4,Equipment/machinery,-1.307501,36.845258
+48,Nairobi Plastics Recyclers 048,Nairobi,Mathare,Mathare,Plastics and Packaging,General/Other,1,Registered,2016,5,Equipment/machinery,-1.305574,36.76356
+49,Nairobi Circuit Reclaim 049,Nairobi,Mathare,Mathare,Electrical and Electronic Waste (E-waste),Women-owned,15,Not Registered,2023,3,Equipment/machinery,-1.298464,36.827504
+50,Nairobi E-Waste Hub 050,Nairobi,Dagoretti North,Dagoretti North,Electrical and Electronic Waste (E-waste),Women-owned,20,Registered,2023,3,Market linkages,-1.220603,36.865758
+51,Nairobi Circuit Reclaim 051,Nairobi,Kasarani,Kasarani,Electrical and Electronic Waste (E-waste),Youth-owned,12,Registered,2017,3,Technical training,-1.302923,36.860338
+52,Nairobi Kitenge Revival 052,Nairobi,Makadara,Makadara,Textiles,Women-owned,10,Registered,2018,3,Business registration support,-1.354595,36.770412
+53,Nairobi Electro Recovery 053,Nairobi,Mathare,Mathare,Electrical and Electronic Waste (E-waste),General/Other,10,Registered,2020,5,Equipment/machinery,-1.276966,36.857094
+54,Nairobi Black Soldier Fly Farm 054,Nairobi,Mathare,Mathare,Organic Waste,Women-owned,4,Registered,2019,5,Business registration support,-1.221605,36.882331
+55,Nairobi Electro Recovery 055,Nairobi,Kibra,Kibra,Electrical and Electronic Waste (E-waste),General/Other,3,Not Registered,2023,2,Equipment/machinery,-1.312106,36.852297
+56,Nairobi Repurposed Plastics Co 056,Nairobi,Kamukunji,Kamukunji,Plastics and Packaging,Women-owned,3,Registered,2021,2,Equipment/machinery,-1.280509,36.736778
+57,Nairobi Organic Waste Solutions 057,Nairobi,Dagoretti North,Dagoretti North,Organic Waste,Women-owned,2,Registered,2023,4,Technical training,-1.323268,36.868921
+58,Nairobi PET Collectors 058,Nairobi,Embakasi East,Embakasi East,Plastics and Packaging,Women-owned,4,Not Registered,2024,1,Market linkages,-1.265074,36.872522
+59,Nairobi Fabric Reclaim 059,Nairobi,Embakasi East,Embakasi East,Textiles,General/Other,5,Not Registered,2017,4,Certification/standards,-1.296859,36.75249
+60,Nairobi Reclaimed Materials 060,Nairobi,Makadara,Makadara,Circular Construction Materials,Youth-owned,15,Registered,2019,3,Access to finance,-1.252796,36.871903
+61,Nairobi EcoBrick Works 061,Nairobi,Dagoretti North,Dagoretti North,Circular Construction Materials,Women-owned,25,Not Registered,2025,2,Access to finance,-1.212635,36.767599
+62,Nairobi Recycled Blocks Co 062,Nairobi,Mathare,Mathare,Circular Construction Materials,Women-owned,6,Registered,2025,4,Certification/standards,-1.205008,36.872774
+63,Nairobi Compost Works 063,Nairobi,Mathare,Mathare,Organic Waste,Women-owned,10,Not Registered,2021,3,Certification/standards,-1.306489,36.820136
+64,Nairobi Textile Waste Hub 064,Nairobi,Makadara,Makadara,Textiles,Women-owned,8,Not Registered,2024,4,Equipment/machinery,-1.333485,36.877376
+65,Nairobi BioWaste Traders 065,Nairobi,Mathare,Mathare,Organic Waste,Youth-owned,10,Registered,2025,4,Market linkages,-1.337911,36.900132
+66,Nairobi TechWaste Solutions 066,Nairobi,Kibra,Kibra,Electrical and Electronic Waste (E-waste),Women-owned,6,Registered,2024,3,Technical training,-1.293125,36.790403
+67,Nairobi Green Compost Co 067,Nairobi,Kibra,Kibra,Organic Waste,Youth-owned,12,Not Registered,2022,4,Equipment/machinery,-1.289107,36.76629
+68,Nairobi Electro Recovery 068,Nairobi,Mathare,Mathare,Electrical and Electronic Waste (E-waste),Women-owned,20,Registered,2022,2,Technical training,-1.378996,36.784862
+69,Nairobi Reclaimed Materials 069,Nairobi,Kasarani,Kasarani,Circular Construction Materials,Women-owned,5,Registered,2016,4,Technical training,-1.305509,36.866168
+70,Nairobi Thrift & Mend 070,Nairobi,Kibra,Kibra,Textiles,PWD-owned,25,Registered,2024,2,Market linkages,-1.248381,36.903058
+71,Nairobi Reclaimed Materials 071,Nairobi,Kasarani,Kasarani,Circular Construction Materials,Youth-owned,5,Registered,2023,3,Market linkages,-1.205608,36.881773
+72,Nairobi Thrift & Mend 072,Nairobi,Kibra,Kibra,Textiles,PWD-owned,10,Registered,2015,2,Certification/standards,-1.206727,36.831505
+73,Nairobi Construction Waste Reuse 073,Nairobi,Dagoretti North,Dagoretti North,Circular Construction Materials,General/Other,2,Not Registered,2021,3,Equipment/machinery,-1.295931,36.793227
+74,Nairobi E-Waste Recyclers 074,Nairobi,Kamukunji,Kamukunji,Electrical and Electronic Waste (E-waste),Youth-owned,2,Not Registered,2016,5,Technical training,-1.2688,36.74155
+75,Nairobi EcoBrick Works 075,Nairobi,Kamukunji,Kamukunji,Circular Construction Materials,General/Other,10,Registered,2024,4,Equipment/machinery,-1.274797,36.843215
+76,Nairobi TechWaste Solutions 076,Nairobi,Kamukunji,Kamukunji,Electrical and Electronic Waste (E-waste),PWD-owned,4,Registered,2016,2,Certification/standards,-1.270315,36.841634
+77,Nairobi Fabric Reclaim 077,Nairobi,Embakasi East,Embakasi East,Textiles,Women-owned,5,Registered,2019,5,Equipment/machinery,-1.282741,36.760076
+78,Nairobi Black Soldier Fly Farm 078,Nairobi,Kibra,Kibra,Organic Waste,General/Other,4,Registered,2023,5,Certification/standards,-1.258371,36.898204
+79,Nairobi Fabric Reclaim 079,Nairobi,Kasarani,Kasarani,Textiles,Youth-owned,25,Not Registered,2019,3,Business registration support,-1.233306,36.744754
+80,Nairobi E-Waste Recyclers 080,Nairobi,Dagoretti North,Dagoretti North,Electrical and Electronic Waste (E-waste),General/Other,10,Registered,2024,5,Business registration support,-1.258138,36.857852
+81,Nairobi Repurposed Plastics Co 081,Nairobi,Makadara,Makadara,Plastics and Packaging,Youth-owned,1,Not Registered,2025,5,Business registration support,-1.324082,36.776966
+82,Nairobi Green Compost Co 082,Nairobi,Kibra,Kibra,Organic Waste,Women-owned,3,Not Registered,2021,4,Technical training,-1.24474,36.763434
+83,Nairobi E-Waste Recyclers 083,Nairobi,Dagoretti North,Dagoretti North,Electrical and Electronic Waste (E-waste),PWD-owned,8,Not Registered,2019,2,Technical training,-1.319467,36.791896
+84,Nairobi E-Waste Hub 084,Nairobi,Kibra,Kibra,Electrical and Electronic Waste (E-waste),Women-owned,1,Registered,2023,4,Business registration support,-1.300231,36.788513
+85,Nairobi Electro Recovery 085,Nairobi,Kibra,Kibra,Electrical and Electronic Waste (E-waste),General/Other,4,Registered,2017,4,Access to finance,-1.348335,36.79702
+86,Nairobi Black Soldier Fly Farm 086,Nairobi,Makadara,Makadara,Organic Waste,Women-owned,3,Registered,2015,2,Certification/standards,-1.294852,36.737096
+87,Nairobi EcoBrick Works 087,Nairobi,Kibra,Kibra,Circular Construction Materials,Youth-owned,3,Registered,2019,1,Certification/standards,-1.341654,36.883353
+88,Nairobi Construction Waste Reuse 088,Nairobi,Dagoretti North,Dagoretti North,Circular Construction Materials,Youth-owned,8,Registered,2024,5,Market linkages,-1.23185,36.908344
+89,Nairobi Green Building Materials 089,Nairobi,Mathare,Mathare,Circular Construction Materials,General/Other,5,Not Registered,2019,3,Business registration support,-1.369534,36.870982
+90,Nairobi Green Compost Co 090,Nairobi,Kamukunji,Kamukunji,Organic Waste,Youth-owned,6,Registered,2023,5,Equipment/machinery,-1.202298,36.820035
+91,Nairobi Electro Recovery 091,Nairobi,Kasarani,Kasarani,Electrical and Electronic Waste (E-waste),Youth-owned,8,Registered,2022,4,Market linkages,-1.225572,36.908439
+92,Nairobi Electro Recovery 092,Nairobi,Makadara,Makadara,Electrical and Electronic Waste (E-waste),Youth-owned,12,Not Registered,2020,1,Market linkages,-1.239469,36.849263
+93,Nairobi Repurposed Plastics Co 093,Nairobi,Kibra,Kibra,Plastics and Packaging,PWD-owned,3,Registered,2019,4,Certification/standards,-1.287429,36.814147
+94,Nairobi Green Compost Co 094,Nairobi,Makadara,Makadara,Organic Waste,Women-owned,6,Registered,2022,5,Equipment/machinery,-1.310553,36.746357
+95,Nairobi Recycled Blocks Co 095,Nairobi,Kamukunji,Kamukunji,Circular Construction Materials,General/Other,2,Registered,2016,2,Certification/standards,-1.369784,36.845509
+96,Nairobi Repurposed Plastics Co 096,Nairobi,Embakasi East,Embakasi East,Plastics and Packaging,Youth-owned,6,Registered,2017,1,Technical training,-1.25718,36.894516
+97,Nairobi Textile Waste Hub 097,Nairobi,Dagoretti North,Dagoretti North,Textiles,Youth-owned,8,Registered,2018,1,Business registration support,-1.280233,36.874554
+98,Nairobi E-Waste Hub 098,Nairobi,Embakasi East,Embakasi East,Electrical and Electronic Waste (E-waste),Women-owned,5,Registered,2017,1,Equipment/machinery,-1.340306,36.846723
+99,Nairobi Repurposed Plastics Co 099,Nairobi,Kasarani,Kasarani,Plastics and Packaging,General/Other,5,Registered,2021,3,Equipment/machinery,-1.204323,36.785748
+100,Nairobi E-Waste Recyclers 100,Nairobi,Embakasi East,Embakasi East,Electrical and Electronic Waste (E-waste),Youth-owned,20,Registered,2015,3,Access to finance,-1.313454,36.796513
+101,Nairobi Recycled Blocks Co 101,Nairobi,Kamukunji,Kamukunji,Circular Construction Materials,General/Other,6,Registered,2018,2,Business registration support,-1.247969,36.881811
+102,Nairobi Construction Waste Reuse 102,Nairobi,Makadara,Makadara,Circular Construction Materials,PWD-owned,2,Not Registered,2025,2,Certification/standards,-1.246096,36.870045
+103,Nairobi PET Collectors 103,Nairobi,Mathare,Mathare,Plastics and Packaging,PWD-owned,6,Not Registered,2017,1,Technical training,-1.302752,36.836223
+104,Nairobi Fabric Reclaim 104,Nairobi,Mathare,Mathare,Textiles,Women-owned,5,Not Registered,2022,3,Market linkages,-1.285007,36.906768
+105,Nairobi BioWaste Traders 105,Nairobi,Mathare,Mathare,Organic Waste,Youth-owned,25,Registered,2021,2,Certification/standards,-1.361369,36.905221
+106,Nairobi Construction Waste Reuse 106,Nairobi,Kibra,Kibra,Circular Construction Materials,Women-owned,20,Not Registered,2019,4,Technical training,-1.239777,36.734405
+107,Nairobi EcoBrick Works 107,Nairobi,Mathare,Mathare,Circular Construction Materials,PWD-owned,15,Not Registered,2023,4,Access to finance,-1.267161,36.798765
+108,Nairobi Green Compost Co 108,Nairobi,Embakasi East,Embakasi East,Organic Waste,Women-owned,8,Registered,2015,3,Certification/standards,-1.265523,36.846273
+109,Nairobi PET Collectors 109,Nairobi,Dagoretti North,Dagoretti North,Plastics and Packaging,Women-owned,6,Registered,2023,4,Equipment/machinery,-1.361198,36.774164
+110,Nairobi E-Waste Hub 110,Nairobi,Makadara,Makadara,Electrical and Electronic Waste (E-waste),Women-owned,8,Not Registered,2019,4,Business registration support,-1.251312,36.891274
+111,Nairobi PET Collectors 111,Nairobi,Embakasi East,Embakasi East,Plastics and Packaging,General/Other,6,Registered,2025,1,Certification/standards,-1.302291,36.903
+112,Nairobi Compost Works 112,Nairobi,Dagoretti North,Dagoretti North,Organic Waste,General/Other,20,Registered,2025,4,Access to finance,-1.332441,36.906177
+113,Nairobi Recycled Blocks Co 113,Nairobi,Kibra,Kibra,Circular Construction Materials,Youth-owned,2,Not Registered,2023,5,Market linkages,-1.240477,36.775742
+114,Nairobi Textile Waste Hub 114,Nairobi,Embakasi East,Embakasi East,Textiles,General/Other,5,Not Registered,2017,5,Access to finance,-1.23575,36.77384
+115,Nairobi Textile Waste Hub 115,Nairobi,Kasarani,Kasarani,Textiles,General/Other,6,Not Registered,2018,2,Access to finance,-1.238368,36.751687
+116,Nairobi Construction Waste Reuse 116,Nairobi,Kibra,Kibra,Circular Construction Materials,PWD-owned,25,Registered,2022,5,Access to finance,-1.350736,36.741332
+117,Nairobi Green Compost Co 117,Nairobi,Kamukunji,Kamukunji,Organic Waste,General/Other,20,Registered,2022,1,Certification/standards,-1.36247,36.822591
+118,Nairobi Plastics Recyclers 118,Nairobi,Dagoretti North,Dagoretti North,Plastics and Packaging,Youth-owned,2,Registered,2017,4,Access to finance,-1.229586,36.808629
+119,Nairobi Packaging Solutions 119,Nairobi,Kasarani,Kasarani,Plastics and Packaging,PWD-owned,12,Registered,2023,4,Business registration support,-1.269723,36.837266
+120,Nairobi EcoBrick Works 120,Nairobi,Kibra,Kibra,Circular Construction Materials,Women-owned,4,Registered,2018,5,Certification/standards,-1.239343,36.752495
+121,Nairobi TechWaste Solutions 121,Nairobi,Mathare,Mathare,Electrical and Electronic Waste (E-waste),Youth-owned,20,Registered,2017,4,Technical training,-1.30047,36.806778
+122,Nairobi E-Waste Recyclers 122,Nairobi,Kibra,Kibra,Electrical and Electronic Waste (E-waste),Youth-owned,12,Registered,2023,3,Market linkages,-1.232381,36.748681
+123,Nairobi Construction Waste Reuse 123,Nairobi,Makadara,Makadara,Circular Construction Materials,PWD-owned,1,Not Registered,2024,4,Certification/standards,-1.360098,36.795548
+124,Nairobi BioWaste Traders 124,Nairobi,Kibra,Kibra,Organic Waste,Women-owned,6,Not Registered,2020,2,Access to finance,-1.278075,36.770193
+125,Nairobi PET Collectors 125,Nairobi,Kamukunji,Kamukunji,Plastics and Packaging,Women-owned,20,Registered,2015,5,Business registration support,-1.341391,36.80914
+126,Nairobi Construction Waste Reuse 126,Nairobi,Kibra,Kibra,Circular Construction Materials,Youth-owned,1,Registered,2017,3,Technical training,-1.349625,36.858386
+127,Nairobi EcoBrick Works 127,Nairobi,Kibra,Kibra,Circular Construction Materials,Youth-owned,8,Registered,2020,5,Market linkages,-1.356563,36.845871
+128,Nairobi Thrift & Mend 128,Nairobi,Kasarani,Kasarani,Textiles,Women-owned,3,Registered,2024,1,Access to finance,-1.252213,36.87173
+129,Nairobi Plastics Recyclers 129,Nairobi,Kasarani,Kasarani,Plastics and Packaging,Women-owned,4,Not Registered,2016,4,Technical training,-1.30234,36.808223
+130,Nairobi Black Soldier Fly Farm 130,Nairobi,Kibra,Kibra,Organic Waste,Women-owned,4,Registered,2024,3,Access to finance,-1.331116,36.854028
+131,Nairobi Plastics Recyclers 131,Nairobi,Embakasi East,Embakasi East,Plastics and Packaging,Youth-owned,6,Registered,2022,3,Technical training,-1.327845,36.769922
+132,Nairobi Circuit Reclaim 132,Nairobi,Embakasi East,Embakasi East,Electrical and Electronic Waste (E-waste),Women-owned,8,Not Registered,2015,3,Access to finance,-1.313663,36.858561
+133,Nairobi E-Waste Recyclers 133,Nairobi,Dagoretti North,Dagoretti North,Electrical and Electronic Waste (E-waste),Women-owned,25,Registered,2019,5,Equipment/machinery,-1.216291,36.88708
+134,Nairobi Repurposed Plastics Co 134,Nairobi,Kibra,Kibra,Plastics and Packaging,General/Other,6,Registered,2016,4,Certification/standards,-1.208184,36.762837
+135,Nairobi Kitenge Revival 135,Nairobi,Kamukunji,Kamukunji,Textiles,General/Other,6,Not Registered,2016,3,Market linkages,-1.310019,36.746056
+136,Nairobi Recycled Blocks Co 136,Nairobi,Kamukunji,Kamukunji,Circular Construction Materials,Women-owned,2,Registered,2018,2,Market linkages,-1.290309,36.894966
+137,Nairobi Textile Waste Hub 137,Nairobi,Embakasi East,Embakasi East,Textiles,Youth-owned,15,Not Registered,2022,4,Equipment/machinery,-1.245261,36.849892
+138,Nairobi Reclaimed Materials 138,Nairobi,Kasarani,Kasarani,Circular Construction Materials,Youth-owned,10,Registered,2019,1,Equipment/machinery,-1.226536,36.844799
+139,Nairobi Recycled Blocks Co 139,Nairobi,Kasarani,Kasarani,Circular Construction Materials,Women-owned,5,Registered,2016,1,Technical training,-1.290779,36.787773
+140,Nairobi Reclaimed Materials 140,Nairobi,Kamukunji,Kamukunji,Circular Construction Materials,General/Other,15,Registered,2020,1,Equipment/machinery,-1.312893,36.836359
+141,Nairobi EcoBrick Works 141,Nairobi,Kamukunji,Kamukunji,Circular Construction Materials,Youth-owned,2,Registered,2017,3,Certification/standards,-1.354945,36.743037
+142,Nairobi Packaging Solutions 142,Nairobi,Makadara,Makadara,Plastics and Packaging,Women-owned,6,Not Registered,2021,2,Technical training,-1.303304,36.810996
+143,Nairobi TechWaste Solutions 143,Nairobi,Makadara,Makadara,Electrical and Electronic Waste (E-waste),Women-owned,2,Registered,2021,1,Technical training,-1.274481,36.873961
+144,Nairobi BioWaste Traders 144,Nairobi,Makadara,Makadara,Organic Waste,Women-owned,2,Registered,2017,2,Technical training,-1.228818,36.905494
+145,Nairobi BioWaste Traders 145,Nairobi,Makadara,Makadara,Organic Waste,Women-owned,12,Registered,2020,1,Technical training,-1.256374,36.802452
+146,Nairobi Textile Waste Hub 146,Nairobi,Kibra,Kibra,Textiles,Women-owned,3,Not Registered,2020,3,Technical training,-1.265816,36.808113
+147,Nairobi Circuit Reclaim 147,Nairobi,Embakasi East,Embakasi East,Electrical and Electronic Waste (E-waste),Youth-owned,12,Not Registered,2023,1,Business registration support,-1.202104,36.75979
+148,Nairobi PET Collectors 148,Nairobi,Mathare,Mathare,Plastics and Packaging,Youth-owned,15,Not Registered,2017,2,Certification/standards,-1.270854,36.839404
+149,Nairobi E-Waste Recyclers 149,Nairobi,Dagoretti North,Dagoretti North,Electrical and Electronic Waste (E-waste),General/Other,25,Not Registered,2018,5,Technical training,-1.316526,36.861425
+150,Nairobi Green Building Materials 150,Nairobi,Kasarani,Kasarani,Circular Construction Materials,General/Other,20,Not Registered,2022,2,Technical training,-1.208293,36.873087
+151,Nairobi TechWaste Solutions 151,Nairobi,Mathare,Mathare,Electrical and Electronic Waste (E-waste),General/Other,3,Not Registered,2015,2,Business registration support,-1.313363,36.826843
+152,Nairobi TechWaste Solutions 152,Nairobi,Kamukunji,Kamukunji,Electrical and Electronic Waste (E-waste),Women-owned,2,Not Registered,2019,1,Technical training,-1.213927,36.859952
+153,Kiambu E-Waste Hub 153,Kiambu,Ruiru,Ruiru,Electrical and Electronic Waste (E-waste),General/Other,1,Registered,2021,4,Technical training,-1.091949,36.737611
+154,Kiambu Construction Waste Reuse 154,Kiambu,Ruiru,Ruiru,Circular Construction Materials,Youth-owned,25,Registered,2017,3,Access to finance,-1.19872,36.735185
+155,Kiambu Textile Upcyclers 155,Kiambu,Kikuyu,Kikuyu,Textiles,General/Other,15,Registered,2016,4,Equipment/machinery,-1.071225,36.828989
+156,Kiambu PET Collectors 156,Kiambu,Ruiru,Ruiru,Plastics and Packaging,PWD-owned,2,Not Registered,2018,5,Equipment/machinery,-1.091009,36.847313
+157,Kiambu Compost Works 157,Kiambu,Thika Town,Thika Town,Organic Waste,Women-owned,10,Registered,2015,1,Access to finance,-1.234175,36.868948
+158,Kiambu Reclaimed Materials 158,Kiambu,Ruiru,Ruiru,Circular Construction Materials,Youth-owned,15,Registered,2025,3,Market linkages,-1.118949,36.785505
+159,Kiambu EcoPack 159,Kiambu,Kikuyu,Kikuyu,Plastics and Packaging,Women-owned,1,Registered,2022,5,Business registration support,-1.275157,36.841854
+160,Kiambu Repurposed Plastics Co 160,Kiambu,Kikuyu,Kikuyu,Plastics and Packaging,General/Other,25,Registered,2016,3,Market linkages,-1.230524,36.719498
+161,Kiambu Construction Waste Reuse 161,Kiambu,Ruiru,Ruiru,Circular Construction Materials,General/Other,10,Not Registered,2022,2,Certification/standards,-1.280759,36.846643
+162,Kiambu Fabric Reclaim 162,Kiambu,Thika Town,Thika Town,Textiles,Youth-owned,4,Not Registered,2020,2,Access to finance,-1.119549,36.942065
+163,Kiambu Green Compost Co 163,Kiambu,Limuru Central,Limuru Central,Organic Waste,Youth-owned,6,Not Registered,2015,2,Technical training,-1.054011,36.845927
+164,Kiambu BioWaste Traders 164,Kiambu,Thika Town,Thika Town,Organic Waste,Women-owned,6,Not Registered,2022,4,Equipment/machinery,-1.099558,36.820468
+165,Kiambu TechWaste Solutions 165,Kiambu,Juja,Juja,Electrical and Electronic Waste (E-waste),Women-owned,3,Registered,2020,4,Business registration support,-1.227387,36.735427
+166,Kiambu Plastics Recyclers 166,Kiambu,Kikuyu,Kikuyu,Plastics and Packaging,Women-owned,25,Registered,2022,4,Market linkages,-1.132779,36.789159
+167,Kiambu PET Collectors 167,Kiambu,Juja,Juja,Plastics and Packaging,General/Other,20,Registered,2020,1,Access to finance,-1.051844,36.781493
+168,Kiambu Green Building Materials 168,Kiambu,Thika Town,Thika Town,Circular Construction Materials,General/Other,2,Registered,2025,1,Market linkages,-1.257133,36.861417
+169,Kiambu BioWaste Traders 169,Kiambu,Limuru Central,Limuru Central,Organic Waste,Youth-owned,6,Registered,2016,4,Technical training,-1.063528,36.723372
+170,Kiambu Green Building Materials 170,Kiambu,Juja,Juja,Circular Construction Materials,Youth-owned,25,Registered,2023,1,Access to finance,-1.203332,36.791053
+171,Kiambu E-Waste Hub 171,Kiambu,Thika Town,Thika Town,Electrical and Electronic Waste (E-waste),Women-owned,25,Not Registered,2022,5,Technical training,-1.228574,36.77807
+172,Kiambu Textile Upcyclers 172,Kiambu,Ruiru,Ruiru,Textiles,General/Other,20,Not Registered,2020,4,Access to finance,-1.086722,36.82409
+173,Kiambu Compost Works 173,Kiambu,Juja,Juja,Organic Waste,General/Other,12,Registered,2018,2,Technical training,-1.161279,36.92952
+174,Kiambu Fabric Reclaim 174,Kiambu,Limuru Central,Limuru Central,Textiles,Women-owned,15,Not Registered,2016,5,Market linkages,-1.285092,36.848565
+175,Kiambu Black Soldier Fly Farm 175,Kiambu,Gatundu South,Gatundu South,Organic Waste,General/Other,3,Not Registered,2025,5,Access to finance,-1.118871,36.841767
+176,Kiambu Repurposed Plastics Co 176,Kiambu,Limuru Central,Limuru Central,Plastics and Packaging,General/Other,15,Registered,2017,5,Certification/standards,-1.128174,36.798284
+177,Kiambu E-Waste Hub 177,Kiambu,Thika Town,Thika Town,Electrical and Electronic Waste (E-waste),Youth-owned,25,Registered,2023,2,Technical training,-1.091866,36.839945
+178,Kiambu Compost Works 178,Kiambu,Kikuyu,Kikuyu,Organic Waste,Youth-owned,12,Registered,2025,3,Business registration support,-1.244288,36.945124
+179,Kiambu Textile Waste Hub 179,Kiambu,Juja,Juja,Textiles,PWD-owned,15,Registered,2015,5,Technical training,-1.254393,36.873696
+180,Kiambu Plastics Recyclers 180,Kiambu,Gatundu South,Gatundu South,Plastics and Packaging,Youth-owned,15,Registered,2022,5,Equipment/machinery,-1.106355,36.779117
+181,Kiambu Construction Waste Reuse 181,Kiambu,Gatundu South,Gatundu South,Circular Construction Materials,General/Other,10,Registered,2015,4,Technical training,-1.061804,36.831507
+182,Kiambu Kitenge Revival 182,Kiambu,Limuru Central,Limuru Central,Textiles,Women-owned,6,Not Registered,2020,3,Certification/standards,-1.17518,36.764566
+183,Kiambu Circuit Reclaim 183,Kiambu,Kikuyu,Kikuyu,Electrical and Electronic Waste (E-waste),Youth-owned,10,Registered,2016,1,Technical training,-1.167805,36.741084
+184,Kiambu PET Collectors 184,Kiambu,Limuru Central,Limuru Central,Plastics and Packaging,General/Other,15,Not Registered,2018,2,Technical training,-1.084001,36.815952
+185,Kiambu Kitenge Revival 185,Kiambu,Juja,Juja,Textiles,Women-owned,12,Registered,2018,1,Equipment/machinery,-1.179364,36.926578
+186,Kiambu Textile Waste Hub 186,Kiambu,Kikuyu,Kikuyu,Textiles,Women-owned,12,Registered,2016,4,Technical training,-1.279722,36.783126
+187,Kiambu Circuit Reclaim 187,Kiambu,Kikuyu,Kikuyu,Electrical and Electronic Waste (E-waste),Women-owned,15,Registered,2020,4,Access to finance,-1.116798,36.898926
+188,Kiambu Construction Waste Reuse 188,Kiambu,Thika Town,Thika Town,Circular Construction Materials,Women-owned,15,Registered,2016,5,Certification/standards,-1.198676,36.823685
+189,Kiambu TechWaste Solutions 189,Kiambu,Kikuyu,Kikuyu,Electrical and Electronic Waste (E-waste),Youth-owned,8,Registered,2015,5,Business registration support,-1.15752,36.803346
+190,Kiambu Packaging Solutions 190,Kiambu,Gatundu South,Gatundu South,Plastics and Packaging,Women-owned,3,Registered,2024,5,Business registration support,-1.21147,36.829299
+191,Kiambu Organic Waste Solutions 191,Kiambu,Limuru Central,Limuru Central,Organic Waste,Youth-owned,12,Registered,2024,3,Business registration support,-1.053652,36.893037
+192,Kiambu Black Soldier Fly Farm 192,Kiambu,Thika Town,Thika Town,Organic Waste,General/Other,25,Not Registered,2025,5,Technical training,-1.202994,36.877314
+193,Kiambu EcoPack 193,Kiambu,Limuru Central,Limuru Central,Plastics and Packaging,General/Other,4,Not Registered,2024,5,Business registration support,-1.227673,36.872942
+194,Kiambu Circuit Reclaim 194,Kiambu,Juja,Juja,Electrical and Electronic Waste (E-waste),General/Other,4,Registered,2016,2,Certification/standards,-1.140434,36.864337
+195,Kiambu Textile Upcyclers 195,Kiambu,Limuru Central,Limuru Central,Textiles,PWD-owned,15,Not Registered,2015,4,Business registration support,-1.216114,36.751944
+196,Kiambu Textile Waste Hub 196,Kiambu,Ruiru,Ruiru,Textiles,Women-owned,3,Registered,2023,4,Technical training,-1.156787,36.955149
+197,Kiambu Green Compost Co 197,Kiambu,Kikuyu,Kikuyu,Organic Waste,PWD-owned,10,Registered,2018,3,Business registration support,-1.129192,36.923837
+198,Kiambu Green Compost Co 198,Kiambu,Kikuyu,Kikuyu,Organic Waste,Youth-owned,4,Not Registered,2022,3,Certification/standards,-1.237432,36.949099
+199,Kiambu Black Soldier Fly Farm 199,Kiambu,Kikuyu,Kikuyu,Organic Waste,PWD-owned,15,Registered,2021,3,Access to finance,-1.156883,36.939876
+200,Kiambu TechWaste Solutions 200,Kiambu,Ruiru,Ruiru,Electrical and Electronic Waste (E-waste),PWD-owned,20,Registered,2022,3,Equipment/machinery,-1.221691,36.784631
+201,Kiambu Fabric Reclaim 201,Kiambu,Juja,Juja,Textiles,Youth-owned,25,Registered,2018,1,Business registration support,-1.226328,36.850484
+202,Kiambu EcoPack 202,Kiambu,Ruiru,Ruiru,Plastics and Packaging,Women-owned,20,Not Registered,2015,4,Access to finance,-1.138293,36.728198
+203,Kiambu Green Building Materials 203,Kiambu,Limuru Central,Limuru Central,Circular Construction Materials,Women-owned,6,Registered,2015,2,Technical training,-1.134706,36.926955
+204,Kiambu EcoPack 204,Kiambu,Ruiru,Ruiru,Plastics and Packaging,General/Other,3,Not Registered,2015,2,Equipment/machinery,-1.162963,36.889148
+205,Kiambu Electro Recovery 205,Kiambu,Ruiru,Ruiru,Electrical and Electronic Waste (E-waste),General/Other,5,Registered,2016,1,Access to finance,-1.066614,36.946512
+206,Kiambu BioWaste Traders 206,Kiambu,Limuru Central,Limuru Central,Organic Waste,Women-owned,10,Registered,2016,2,Business registration support,-1.054016,36.845992
+207,Kiambu Organic Waste Solutions 207,Kiambu,Gatundu South,Gatundu South,Organic Waste,Youth-owned,15,Registered,2018,3,Technical training,-1.181261,36.777344
+208,Kiambu Textile Waste Hub 208,Kiambu,Gatundu South,Gatundu South,Textiles,Women-owned,20,Registered,2017,1,Equipment/machinery,-1.07611,36.914078
+209,Kiambu TechWaste Solutions 209,Kiambu,Ruiru,Ruiru,Electrical and Electronic Waste (E-waste),Women-owned,5,Registered,2024,3,Technical training,-1.289761,36.807658
+210,Kiambu PET Collectors 210,Kiambu,Gatundu South,Gatundu South,Plastics and Packaging,PWD-owned,3,Registered,2023,4,Technical training,-1.205107,36.772313
+211,Kiambu Compost Works 211,Kiambu,Gatundu South,Gatundu South,Organic Waste,Women-owned,10,Registered,2024,2,Market linkages,-1.071529,36.786409
+212,Kiambu Black Soldier Fly Farm 212,Kiambu,Gatundu South,Gatundu South,Organic Waste,Women-owned,20,Not Registered,2016,2,Market linkages,-1.159584,36.828599
+213,Kiambu EcoBrick Works 213,Kiambu,Juja,Juja,Circular Construction Materials,Women-owned,12,Registered,2023,1,Business registration support,-1.122496,36.734345
+214,Kiambu Fabric Reclaim 214,Kiambu,Kikuyu,Kikuyu,Textiles,PWD-owned,2,Not Registered,2022,5,Equipment/machinery,-1.086323,36.821642
+215,Kiambu Repurposed Plastics Co 215,Kiambu,Ruiru,Ruiru,Plastics and Packaging,Youth-owned,5,Not Registered,2021,4,Certification/standards,-1.168221,36.825232
+216,Kiambu Compost Works 216,Kiambu,Gatundu South,Gatundu South,Organic Waste,Women-owned,1,Not Registered,2016,1,Business registration support,-1.239104,36.733127
+217,Kiambu E-Waste Recyclers 217,Kiambu,Kikuyu,Kikuyu,Electrical and Electronic Waste (E-waste),General/Other,8,Registered,2021,4,Technical training,-1.193272,36.900153
+218,Kiambu E-Waste Recyclers 218,Kiambu,Gatundu South,Gatundu South,Electrical and Electronic Waste (E-waste),Youth-owned,3,Not Registered,2021,3,Access to finance,-1.060005,36.925493
+219,Kiambu Green Building Materials 219,Kiambu,Gatundu South,Gatundu South,Circular Construction Materials,General/Other,20,Not Registered,2021,3,Equipment/machinery,-1.056506,36.915957
+220,Kiambu EcoBrick Works 220,Kiambu,Ruiru,Ruiru,Circular Construction Materials,Youth-owned,20,Registered,2015,1,Access to finance,-1.231997,36.798678
+221,Kiambu Fabric Reclaim 221,Kiambu,Thika Town,Thika Town,Textiles,Women-owned,25,Registered,2022,1,Market linkages,-1.267185,36.723658
+222,Kiambu Textile Waste Hub 222,Kiambu,Ruiru,Ruiru,Textiles,Youth-owned,25,Registered,2024,3,Market linkages,-1.110347,36.901855
+223,Kiambu Construction Waste Reuse 223,Kiambu,Ruiru,Ruiru,Circular Construction Materials,PWD-owned,5,Registered,2023,2,Equipment/machinery,-1.218977,36.749983
+224,Kiambu Green Building Materials 224,Kiambu,Gatundu South,Gatundu South,Circular Construction Materials,Youth-owned,20,Registered,2023,3,Certification/standards,-1.1285,36.849004
+225,Kiambu Black Soldier Fly Farm 225,Kiambu,Limuru Central,Limuru Central,Organic Waste,General/Other,4,Registered,2017,4,Market linkages,-1.255588,36.80595
+226,Kiambu E-Waste Recyclers 226,Kiambu,Juja,Juja,Electrical and Electronic Waste (E-waste),Women-owned,5,Registered,2025,4,Market linkages,-1.192357,36.815562
+227,Kiambu Repurposed Plastics Co 227,Kiambu,Kikuyu,Kikuyu,Plastics and Packaging,Youth-owned,20,Registered,2015,3,Equipment/machinery,-1.269209,36.8895
+228,Kiambu Packaging Solutions 228,Kiambu,Juja,Juja,Plastics and Packaging,Women-owned,1,Registered,2018,3,Technical training,-1.117567,36.849724
+229,Kiambu Repurposed Plastics Co 229,Kiambu,Ruiru,Ruiru,Plastics and Packaging,Women-owned,6,Not Registered,2021,2,Business registration support,-1.12445,36.884504
+230,Kiambu E-Waste Hub 230,Kiambu,Gatundu South,Gatundu South,Electrical and Electronic Waste (E-waste),Women-owned,2,Not Registered,2022,4,Equipment/machinery,-1.205178,36.778375
+231,Kiambu Organic Waste Solutions 231,Kiambu,Kikuyu,Kikuyu,Organic Waste,General/Other,5,Registered,2024,2,Access to finance,-1.216299,36.726572
+232,Kiambu EcoBrick Works 232,Kiambu,Kikuyu,Kikuyu,Circular Construction Materials,Women-owned,12,Registered,2025,2,Equipment/machinery,-1.254821,36.794768
+233,Kiambu BioWaste Traders 233,Kiambu,Limuru Central,Limuru Central,Organic Waste,Women-owned,6,Registered,2023,2,Certification/standards,-1.059438,36.869607
+234,Kiambu Circuit Reclaim 234,Kiambu,Juja,Juja,Electrical and Electronic Waste (E-waste),Women-owned,1,Not Registered,2021,1,Certification/standards,-1.053722,36.945337
+235,Kiambu Fabric Reclaim 235,Kiambu,Thika Town,Thika Town,Textiles,Women-owned,15,Registered,2024,3,Access to finance,-1.121679,36.717794
+236,Kiambu Electro Recovery 236,Kiambu,Thika Town,Thika Town,Electrical and Electronic Waste (E-waste),Youth-owned,5,Registered,2019,5,Certification/standards,-1.289813,36.847994
+237,Kiambu EcoPack 237,Kiambu,Gatundu South,Gatundu South,Plastics and Packaging,General/Other,12,Registered,2018,1,Access to finance,-1.129632,36.90908
+238,Kiambu Reclaimed Materials 238,Kiambu,Kikuyu,Kikuyu,Circular Construction Materials,Women-owned,10,Registered,2018,3,Equipment/machinery,-1.095749,36.779758
+239,Kiambu Compost Works 239,Kiambu,Gatundu South,Gatundu South,Organic Waste,Youth-owned,8,Registered,2015,4,Equipment/machinery,-1.053398,36.871575
+240,Kiambu Packaging Solutions 240,Kiambu,Thika Town,Thika Town,Plastics and Packaging,General/Other,12,Not Registered,2018,5,Access to finance,-1.171434,36.819738
+241,Kiambu Textile Waste Hub 241,Kiambu,Limuru Central,Limuru Central,Textiles,PWD-owned,15,Registered,2017,3,Business registration support,-1.226337,36.937398
+242,Kiambu Compost Works 242,Kiambu,Ruiru,Ruiru,Organic Waste,PWD-owned,5,Registered,2018,4,Access to finance,-1.150511,36.896141
+243,Kiambu EcoBrick Works 243,Kiambu,Gatundu South,Gatundu South,Circular Construction Materials,General/Other,25,Registered,2020,2,Certification/standards,-1.076234,36.795215
+244,Kiambu Plastics Recyclers 244,Kiambu,Limuru Central,Limuru Central,Plastics and Packaging,Women-owned,8,Not Registered,2020,5,Business registration support,-1.235685,36.733844
+245,Kiambu PET Collectors 245,Kiambu,Limuru Central,Limuru Central,Plastics and Packaging,General/Other,20,Registered,2021,4,Market linkages,-1.173655,36.800995
+246,Kiambu EcoPack 246,Kiambu,Kikuyu,Kikuyu,Plastics and Packaging,Youth-owned,25,Not Registered,2017,2,Equipment/machinery,-1.099867,36.886746
+247,Kiambu TechWaste Solutions 247,Kiambu,Kikuyu,Kikuyu,Electrical and Electronic Waste (E-waste),Youth-owned,2,Registered,2017,3,Technical training,-1.265828,36.716847
+248,Kiambu Electro Recovery 248,Kiambu,Juja,Juja,Electrical and Electronic Waste (E-waste),Youth-owned,2,Registered,2020,3,Business registration support,-1.158262,36.813531
+249,Kiambu E-Waste Recyclers 249,Kiambu,Kikuyu,Kikuyu,Electrical and Electronic Waste (E-waste),PWD-owned,15,Registered,2025,5,Market linkages,-1.192086,36.902601
+250,Kiambu Circuit Reclaim 250,Kiambu,Ruiru,Ruiru,Electrical and Electronic Waste (E-waste),Youth-owned,5,Registered,2022,2,Equipment/machinery,-1.226859,36.780018
+251,Kiambu PET Collectors 251,Kiambu,Kikuyu,Kikuyu,Plastics and Packaging,Women-owned,10,Registered,2019,5,Market linkages,-1.064787,36.888616
+252,Kiambu Repurposed Plastics Co 252,Kiambu,Kikuyu,Kikuyu,Plastics and Packaging,General/Other,8,Not Registered,2025,4,Technical training,-1.089413,36.806774
+253,Kiambu Green Building Materials 253,Kiambu,Kikuyu,Kikuyu,Circular Construction Materials,Youth-owned,8,Not Registered,2019,3,Market linkages,-1.21444,36.942947
+254,Kiambu E-Waste Hub 254,Kiambu,Ruiru,Ruiru,Electrical and Electronic Waste (E-waste),General/Other,15,Registered,2023,3,Access to finance,-1.213187,36.782872
+255,Kiambu Textile Waste Hub 255,Kiambu,Thika Town,Thika Town,Textiles,PWD-owned,25,Registered,2021,4,Technical training,-1.062679,36.826389
+256,Kiambu Circuit Reclaim 256,Kiambu,Gatundu South,Gatundu South,Electrical and Electronic Waste (E-waste),Youth-owned,2,Registered,2024,4,Equipment/machinery,-1.21872,36.776244
+257,Kiambu E-Waste Hub 257,Kiambu,Limuru Central,Limuru Central,Electrical and Electronic Waste (E-waste),General/Other,1,Not Registered,2020,4,Business registration support,-1.163152,36.937239
+258,Kiambu Reclaimed Materials 258,Kiambu,Gatundu South,Gatundu South,Circular Construction Materials,Youth-owned,20,Registered,2024,3,Market linkages,-1.071944,36.741849
+259,Kiambu TechWaste Solutions 259,Kiambu,Limuru Central,Limuru Central,Electrical and Electronic Waste (E-waste),Youth-owned,15,Not Registered,2018,5,Business registration support,-1.265973,36.739266
+260,Kiambu TechWaste Solutions 260,Kiambu,Limuru Central,Limuru Central,Electrical and Electronic Waste (E-waste),PWD-owned,1,Registered,2019,2,Technical training,-1.180265,36.878693
+261,Kiambu E-Waste Recyclers 261,Kiambu,Thika Town,Thika Town,Electrical and Electronic Waste (E-waste),Women-owned,4,Registered,2020,3,Equipment/machinery,-1.091884,36.890836
+262,Kiambu E-Waste Recyclers 262,Kiambu,Limuru Central,Limuru Central,Electrical and Electronic Waste (E-waste),Youth-owned,2,Registered,2020,1,Certification/standards,-1.118121,36.824187
+263,Kiambu Packaging Solutions 263,Kiambu,Gatundu South,Gatundu South,Plastics and Packaging,Youth-owned,10,Registered,2021,5,Equipment/machinery,-1.232861,36.757469
+264,Nakuru Fabric Reclaim 264,Nakuru,Rongai,Rongai,Textiles,PWD-owned,15,Registered,2015,2,Equipment/machinery,-0.255908,36.048675
+265,Nakuru Fabric Reclaim 265,Nakuru,Njoro,Njoro,Textiles,Youth-owned,3,Registered,2018,1,Business registration support,-0.227402,36.172619
+266,Nakuru E-Waste Recyclers 266,Nakuru,Njoro,Njoro,Electrical and Electronic Waste (E-waste),General/Other,8,Registered,2024,3,Business registration support,-0.25189,36.076845
+267,Nakuru PET Collectors 267,Nakuru,Njoro,Njoro,Plastics and Packaging,General/Other,15,Registered,2017,3,Business registration support,-0.199445,36.115209
+268,Nakuru Compost Works 268,Nakuru,Naivasha East,Naivasha East,Organic Waste,PWD-owned,8,Registered,2024,5,Equipment/machinery,-0.361486,35.984913
+269,Nakuru Electro Recovery 269,Nakuru,Naivasha East,Naivasha East,Electrical and Electronic Waste (E-waste),General/Other,3,Registered,2017,2,Business registration support,-0.307099,36.091214
+270,Nakuru Thrift & Mend 270,Nakuru,Bahati,Bahati,Textiles,General/Other,4,Not Registered,2023,4,Market linkages,-0.267277,36.189657
+271,Nakuru EcoBrick Works 271,Nakuru,Bahati,Bahati,Circular Construction Materials,General/Other,2,Registered,2018,4,Market linkages,-0.247691,36.054689
+272,Nakuru Compost Works 272,Nakuru,Njoro,Njoro,Organic Waste,General/Other,10,Registered,2016,5,Certification/standards,-0.385647,36.016601
+273,Nakuru Recycled Blocks Co 273,Nakuru,Njoro,Njoro,Circular Construction Materials,Women-owned,10,Registered,2021,1,Certification/standards,-0.220566,36.176985
+274,Nakuru Packaging Solutions 274,Nakuru,Njoro,Njoro,Plastics and Packaging,Youth-owned,2,Not Registered,2018,1,Equipment/machinery,-0.190657,35.939669
+275,Nakuru Textile Waste Hub 275,Nakuru,Rongai,Rongai,Textiles,Women-owned,3,Not Registered,2018,2,Business registration support,-0.347911,36.143226
+276,Nakuru EcoPack 276,Nakuru,Njoro,Njoro,Plastics and Packaging,Youth-owned,15,Registered,2023,3,Technical training,-0.293416,36.109057
+277,Nakuru Packaging Solutions 277,Nakuru,Bahati,Bahati,Plastics and Packaging,General/Other,3,Registered,2020,2,Certification/standards,-0.177469,36.227746
+278,Nakuru Kitenge Revival 278,Nakuru,Bahati,Bahati,Textiles,Women-owned,2,Registered,2016,4,Equipment/machinery,-0.410449,36.119721
+279,Nakuru E-Waste Hub 279,Nakuru,Rongai,Rongai,Electrical and Electronic Waste (E-waste),Women-owned,15,Registered,2016,4,Technical training,-0.369632,36.210901
+280,Nakuru TechWaste Solutions 280,Nakuru,Nakuru East,Nakuru East,Electrical and Electronic Waste (E-waste),General/Other,5,Registered,2019,2,Equipment/machinery,-0.214397,36.049315
+281,Nakuru Green Compost Co 281,Nakuru,Molo,Molo,Organic Waste,General/Other,2,Registered,2022,1,Access to finance,-0.413922,36.185727
+282,Nakuru Plastics Recyclers 282,Nakuru,Naivasha East,Naivasha East,Plastics and Packaging,General/Other,3,Not Registered,2019,2,Certification/standards,-0.320714,35.930203
+283,Nakuru Thrift & Mend 283,Nakuru,Nakuru East,Nakuru East,Textiles,Women-owned,8,Registered,2018,2,Access to finance,-0.256724,36.005117
+284,Nakuru E-Waste Recyclers 284,Nakuru,Rongai,Rongai,Electrical and Electronic Waste (E-waste),Youth-owned,12,Registered,2015,5,Market linkages,-0.424545,35.994026
+285,Nakuru PET Collectors 285,Nakuru,Nakuru East,Nakuru East,Plastics and Packaging,Youth-owned,8,Registered,2016,1,Market linkages,-0.156654,36.056694
+286,Nakuru PET Collectors 286,Nakuru,Njoro,Njoro,Plastics and Packaging,General/Other,20,Registered,2023,2,Certification/standards,-0.188803,35.971139
+287,Nakuru Recycled Blocks Co 287,Nakuru,Molo,Molo,Circular Construction Materials,PWD-owned,15,Not Registered,2018,2,Equipment/machinery,-0.258094,36.06203
+288,Nakuru Plastics Recyclers 288,Nakuru,Naivasha East,Naivasha East,Plastics and Packaging,Women-owned,3,Registered,2025,4,Technical training,-0.227366,36.106872
+289,Nakuru Packaging Solutions 289,Nakuru,Molo,Molo,Plastics and Packaging,Youth-owned,5,Registered,2024,1,Certification/standards,-0.2728,36.146354
+290,Nakuru Green Building Materials 290,Nakuru,Rongai,Rongai,Circular Construction Materials,General/Other,8,Registered,2022,2,Equipment/machinery,-0.335575,36.123851
+291,Nakuru Recycled Blocks Co 291,Nakuru,Molo,Molo,Circular Construction Materials,Women-owned,8,Not Registered,2024,3,Market linkages,-0.186483,35.93362
+292,Nakuru TechWaste Solutions 292,Nakuru,Molo,Molo,Electrical and Electronic Waste (E-waste),General/Other,15,Registered,2019,1,Access to finance,-0.248217,36.158818
+293,Nakuru Textile Upcyclers 293,Nakuru,Nakuru East,Nakuru East,Textiles,Youth-owned,8,Not Registered,2016,5,Equipment/machinery,-0.168496,36.049393
+294,Nakuru Reclaimed Materials 294,Nakuru,Molo,Molo,Circular Construction Materials,Youth-owned,12,Registered,2024,2,Market linkages,-0.407296,35.955079
+295,Nakuru PET Collectors 295,Nakuru,Rongai,Rongai,Plastics and Packaging,Youth-owned,8,Registered,2024,2,Access to finance,-0.321854,36.216028
+296,Nakuru Recycled Blocks Co 296,Nakuru,Njoro,Njoro,Circular Construction Materials,Youth-owned,3,Not Registered,2017,1,Certification/standards,-0.253276,36.127416
+297,Nakuru TechWaste Solutions 297,Nakuru,Molo,Molo,Electrical and Electronic Waste (E-waste),Youth-owned,25,Not Registered,2019,3,Market linkages,-0.297933,36.176752
+298,Nakuru Plastics Recyclers 298,Nakuru,Njoro,Njoro,Plastics and Packaging,Youth-owned,2,Registered,2023,5,Certification/standards,-0.210968,36.011594
+299,Nakuru Compost Works 299,Nakuru,Bahati,Bahati,Organic Waste,Youth-owned,20,Not Registered,2018,1,Business registration support,-0.195292,35.980064
+300,Nakuru Recycled Blocks Co 300,Nakuru,Nakuru East,Nakuru East,Circular Construction Materials,Youth-owned,3,Registered,2015,3,Equipment/machinery,-0.195493,35.933686
+301,Nakuru EcoBrick Works 301,Nakuru,Naivasha East,Naivasha East,Circular Construction Materials,PWD-owned,15,Registered,2023,3,Access to finance,-0.356559,36.054877
+302,Nakuru Packaging Solutions 302,Nakuru,Naivasha East,Naivasha East,Plastics and Packaging,General/Other,5,Not Registered,2019,1,Equipment/machinery,-0.211799,36.224424
+303,Nakuru Compost Works 303,Nakuru,Molo,Molo,Organic Waste,Youth-owned,15,Registered,2020,3,Certification/standards,-0.316076,36.040676
+304,Nakuru EcoBrick Works 304,Nakuru,Naivasha East,Naivasha East,Circular Construction Materials,General/Other,8,Registered,2023,2,Access to finance,-0.233361,36.093968
+305,Nakuru Compost Works 305,Nakuru,Njoro,Njoro,Organic Waste,General/Other,4,Registered,2018,3,Access to finance,-0.452661,36.127191
+306,Nakuru Electro Recovery 306,Nakuru,Nakuru East,Nakuru East,Electrical and Electronic Waste (E-waste),Youth-owned,12,Registered,2020,1,Market linkages,-0.161332,35.972712
+307,Nakuru E-Waste Recyclers 307,Nakuru,Molo,Molo,Electrical and Electronic Waste (E-waste),General/Other,15,Registered,2025,1,Business registration support,-0.424427,35.970054
+308,Nakuru Fabric Reclaim 308,Nakuru,Njoro,Njoro,Textiles,General/Other,10,Registered,2016,3,Technical training,-0.374803,36.024503
+309,Nakuru Fabric Reclaim 309,Nakuru,Molo,Molo,Textiles,Women-owned,2,Registered,2018,3,Equipment/machinery,-0.420408,35.961697
+310,Nakuru TechWaste Solutions 310,Nakuru,Bahati,Bahati,Electrical and Electronic Waste (E-waste),Youth-owned,25,Registered,2018,3,Certification/standards,-0.373598,35.965974
+311,Nakuru Organic Waste Solutions 311,Nakuru,Nakuru East,Nakuru East,Organic Waste,Women-owned,5,Registered,2017,1,Certification/standards,-0.239753,36.22052
+312,Nakuru Repurposed Plastics Co 312,Nakuru,Bahati,Bahati,Plastics and Packaging,Youth-owned,2,Registered,2018,1,Market linkages,-0.286314,36.095036
+313,Nakuru Fabric Reclaim 313,Nakuru,Bahati,Bahati,Textiles,Women-owned,5,Not Registered,2016,5,Business registration support,-0.341428,36.119089
+314,Nakuru Plastics Recyclers 314,Nakuru,Naivasha East,Naivasha East,Plastics and Packaging,Youth-owned,1,Not Registered,2015,3,Access to finance,-0.182351,36.063029
+315,Nakuru Textile Waste Hub 315,Nakuru,Bahati,Bahati,Textiles,Youth-owned,6,Registered,2017,4,Market linkages,-0.206594,36.0485
+316,Nakuru BioWaste Traders 316,Nakuru,Bahati,Bahati,Organic Waste,Women-owned,5,Registered,2023,2,Certification/standards,-0.188073,35.940395
+317,Nakuru E-Waste Recyclers 317,Nakuru,Nakuru East,Nakuru East,Electrical and Electronic Waste (E-waste),Youth-owned,20,Not Registered,2023,5,Market linkages,-0.369167,35.971171
+318,Nakuru Repurposed Plastics Co 318,Nakuru,Rongai,Rongai,Plastics and Packaging,Women-owned,6,Registered,2017,5,Business registration support,-0.345366,36.093355
+319,Nakuru PET Collectors 319,Nakuru,Molo,Molo,Plastics and Packaging,General/Other,12,Registered,2024,1,Equipment/machinery,-0.387394,36.198729
+320,Nakuru Fabric Reclaim 320,Nakuru,Nakuru East,Nakuru East,Textiles,Women-owned,15,Not Registered,2021,1,Market linkages,-0.378743,36.002346
+321,Nakuru Organic Waste Solutions 321,Nakuru,Naivasha East,Naivasha East,Organic Waste,PWD-owned,1,Not Registered,2020,3,Business registration support,-0.382135,36.025401
+322,Nakuru Reclaimed Materials 322,Nakuru,Naivasha East,Naivasha East,Circular Construction Materials,General/Other,5,Registered,2015,4,Business registration support,-0.284167,35.98647
+323,Nakuru Plastics Recyclers 323,Nakuru,Naivasha East,Naivasha East,Plastics and Packaging,Women-owned,4,Not Registered,2020,3,Business registration support,-0.272601,35.935978
+324,Nakuru Thrift & Mend 324,Nakuru,Nakuru East,Nakuru East,Textiles,General/Other,6,Not Registered,2020,1,Business registration support,-0.446526,36.105983
+325,Nakuru E-Waste Hub 325,Nakuru,Nakuru East,Nakuru East,Electrical and Electronic Waste (E-waste),General/Other,10,Registered,2017,4,Certification/standards,-0.352132,36.026781
+326,Nakuru Reclaimed Materials 326,Nakuru,Njoro,Njoro,Circular Construction Materials,Youth-owned,25,Registered,2017,3,Certification/standards,-0.386129,36.106685
+327,Nakuru EcoPack 327,Nakuru,Bahati,Bahati,Plastics and Packaging,Women-owned,6,Not Registered,2024,2,Business registration support,-0.197873,36.161249
+328,Nakuru Textile Waste Hub 328,Nakuru,Nakuru East,Nakuru East,Textiles,PWD-owned,6,Registered,2016,2,Technical training,-0.172094,35.972193
+329,Nakuru Black Soldier Fly Farm 329,Nakuru,Nakuru East,Nakuru East,Organic Waste,Youth-owned,25,Registered,2021,3,Access to finance,-0.373536,36.004862
+330,Nakuru Electro Recovery 330,Nakuru,Naivasha East,Naivasha East,Electrical and Electronic Waste (E-waste),Women-owned,2,Not Registered,2024,5,Equipment/machinery,-0.187734,36.077925
+331,Nakuru Fabric Reclaim 331,Nakuru,Bahati,Bahati,Textiles,Youth-owned,2,Registered,2017,3,Technical training,-0.430987,36.183729
+332,Nakuru Circuit Reclaim 332,Nakuru,Rongai,Rongai,Electrical and Electronic Waste (E-waste),General/Other,15,Not Registered,2015,3,Business registration support,-0.430599,36.21255
+333,Nakuru Circuit Reclaim 333,Nakuru,Molo,Molo,Electrical and Electronic Waste (E-waste),Youth-owned,8,Not Registered,2023,2,Market linkages,-0.186174,35.977131
+334,Nakuru BioWaste Traders 334,Nakuru,Njoro,Njoro,Organic Waste,Women-owned,1,Registered,2021,4,Market linkages,-0.381836,35.944891
+335,Nakuru PET Collectors 335,Nakuru,Rongai,Rongai,Plastics and Packaging,Youth-owned,20,Registered,2016,2,Market linkages,-0.265573,36.074099
+336,Nakuru E-Waste Recyclers 336,Nakuru,Njoro,Njoro,Electrical and Electronic Waste (E-waste),General/Other,20,Registered,2017,3,Access to finance,-0.217637,36.071283
+337,Nakuru Black Soldier Fly Farm 337,Nakuru,Njoro,Njoro,Organic Waste,Women-owned,5,Registered,2017,3,Market linkages,-0.397125,35.943385
+338,Nakuru Plastics Recyclers 338,Nakuru,Rongai,Rongai,Plastics and Packaging,General/Other,12,Registered,2021,5,Market linkages,-0.349963,36.092435
+339,Nakuru EcoBrick Works 339,Nakuru,Molo,Molo,Circular Construction Materials,Women-owned,5,Registered,2015,2,Equipment/machinery,-0.24698,36.210908
+340,Nakuru Reclaimed Materials 340,Nakuru,Molo,Molo,Circular Construction Materials,Women-owned,3,Not Registered,2017,1,Equipment/machinery,-0.212965,36.13326
+341,Nakuru Fabric Reclaim 341,Nakuru,Naivasha East,Naivasha East,Textiles,PWD-owned,3,Not Registered,2019,2,Certification/standards,-0.440297,35.953511
+342,Nakuru Compost Works 342,Nakuru,Nakuru East,Nakuru East,Organic Waste,Women-owned,10,Not Registered,2015,3,Business registration support,-0.33667,36.049206
+343,Nakuru Reclaimed Materials 343,Nakuru,Molo,Molo,Circular Construction Materials,Youth-owned,15,Not Registered,2016,5,Business registration support,-0.218594,35.963756
+344,Nakuru EcoPack 344,Nakuru,Nakuru East,Nakuru East,Plastics and Packaging,General/Other,8,Registered,2024,4,Technical training,-0.217376,36.190243
+345,Nakuru EcoBrick Works 345,Nakuru,Nakuru East,Nakuru East,Circular Construction Materials,Women-owned,8,Not Registered,2020,4,Access to finance,-0.40144,36.050892
+346,Nakuru Textile Upcyclers 346,Nakuru,Rongai,Rongai,Textiles,Women-owned,5,Registered,2022,3,Technical training,-0.310535,36.010575
+347,Nakuru Packaging Solutions 347,Nakuru,Naivasha East,Naivasha East,Plastics and Packaging,General/Other,25,Registered,2025,3,Technical training,-0.362956,36.153117
+348,Nakuru Packaging Solutions 348,Nakuru,Bahati,Bahati,Plastics and Packaging,PWD-owned,1,Registered,2017,5,Technical training,-0.389683,36.177191
+349,Nakuru PET Collectors 349,Nakuru,Rongai,Rongai,Plastics and Packaging,General/Other,3,Registered,2018,5,Access to finance,-0.301061,35.970695
+350,Nakuru Packaging Solutions 350,Nakuru,Nakuru East,Nakuru East,Plastics and Packaging,PWD-owned,10,Registered,2025,3,Technical training,-0.316165,36.205409
+351,Nakuru Plastics Recyclers 351,Nakuru,Naivasha East,Naivasha East,Plastics and Packaging,Youth-owned,12,Registered,2017,4,Business registration support,-0.34136,36.108213
+352,Nakuru Compost Works 352,Nakuru,Njoro,Njoro,Organic Waste,General/Other,20,Registered,2018,2,Market linkages,-0.444865,35.944895
+353,Nakuru Black Soldier Fly Farm 353,Nakuru,Molo,Molo,Organic Waste,General/Other,3,Registered,2024,1,Equipment/machinery,-0.447084,36.164091
+354,Nakuru Packaging Solutions 354,Nakuru,Njoro,Njoro,Plastics and Packaging,PWD-owned,8,Not Registered,2022,3,Equipment/machinery,-0.270597,36.212901
+355,Nakuru Organic Waste Solutions 355,Nakuru,Bahati,Bahati,Organic Waste,Women-owned,1,Registered,2025,5,Access to finance,-0.362456,36.086191
+356,Nakuru Green Compost Co 356,Nakuru,Rongai,Rongai,Organic Waste,PWD-owned,6,Not Registered,2025,4,Access to finance,-0.274968,36.014803
+357,Nakuru BioWaste Traders 357,Nakuru,Njoro,Njoro,Organic Waste,Women-owned,12,Not Registered,2015,2,Market linkages,-0.256264,36.215656
+358,Nakuru EcoBrick Works 358,Nakuru,Rongai,Rongai,Circular Construction Materials,Youth-owned,5,Not Registered,2021,4,Technical training,-0.357224,35.971979
+359,Nakuru E-Waste Recyclers 359,Nakuru,Molo,Molo,Electrical and Electronic Waste (E-waste),Youth-owned,12,Registered,2022,2,Certification/standards,-0.240679,36.101613
+360,Nakuru Green Compost Co 360,Nakuru,Njoro,Njoro,Organic Waste,General/Other,2,Registered,2019,2,Technical training,-0.199474,36.182192
+361,Nakuru Green Building Materials 361,Nakuru,Rongai,Rongai,Circular Construction Materials,Youth-owned,5,Registered,2020,2,Certification/standards,-0.183223,36.12633
+362,Nakuru BioWaste Traders 362,Nakuru,Molo,Molo,Organic Waste,Women-owned,15,Registered,2018,5,Business registration support,-0.364885,36.185364
+363,Nakuru Recycled Blocks Co 363,Nakuru,Rongai,Rongai,Circular Construction Materials,Youth-owned,4,Registered,2024,2,Market linkages,-0.338599,36.019507
+364,Nakuru Circuit Reclaim 364,Nakuru,Njoro,Njoro,Electrical and Electronic Waste (E-waste),Youth-owned,3,Registered,2015,3,Certification/standards,-0.194382,35.984107
+365,Machakos Repurposed Plastics Co 365,Machakos,Mavoko,Mavoko,Plastics and Packaging,Women-owned,2,Registered,2021,2,Equipment/machinery,-1.604885,37.345463
+366,Machakos Electro Recovery 366,Machakos,Kangundo,Kangundo,Electrical and Electronic Waste (E-waste),Youth-owned,6,Not Registered,2020,2,Certification/standards,-1.378102,37.228395
+367,Machakos Green Building Materials 367,Machakos,Machakos Town,Machakos Town,Circular Construction Materials,Youth-owned,3,Registered,2023,3,Technical training,-1.464676,37.301406
+368,Machakos Construction Waste Reuse 368,Machakos,Athi River,Athi River,Circular Construction Materials,General/Other,12,Registered,2020,4,Certification/standards,-1.648114,37.127116
+369,Machakos Circuit Reclaim 369,Machakos,Mavoko,Mavoko,Electrical and Electronic Waste (E-waste),General/Other,1,Registered,2017,2,Equipment/machinery,-1.368858,37.260454
+370,Machakos Textile Upcyclers 370,Machakos,Matungulu,Matungulu,Textiles,PWD-owned,20,Registered,2023,1,Equipment/machinery,-1.51631,37.150349
+371,Machakos Recycled Blocks Co 371,Machakos,Matungulu,Matungulu,Circular Construction Materials,Women-owned,25,Registered,2022,1,Access to finance,-1.369296,37.311991
+372,Machakos E-Waste Recyclers 372,Machakos,Matungulu,Matungulu,Electrical and Electronic Waste (E-waste),Youth-owned,8,Registered,2025,1,Technical training,-1.591879,37.32396
+373,Machakos Construction Waste Reuse 373,Machakos,Matungulu,Matungulu,Circular Construction Materials,General/Other,25,Registered,2019,1,Business registration support,-1.48601,37.154549
+374,Machakos Plastics Recyclers 374,Machakos,Kangundo,Kangundo,Plastics and Packaging,Youth-owned,6,Not Registered,2019,5,Market linkages,-1.608106,37.173325
+375,Machakos Textile Upcyclers 375,Machakos,Matungulu,Matungulu,Textiles,General/Other,1,Registered,2016,3,Market linkages,-1.518794,37.175708
+376,Machakos EcoPack 376,Machakos,Kangundo,Kangundo,Plastics and Packaging,Women-owned,20,Registered,2019,1,Technical training,-1.622957,37.140425
+377,Machakos Black Soldier Fly Farm 377,Machakos,Machakos Town,Machakos Town,Organic Waste,Youth-owned,20,Registered,2016,3,Technical training,-1.637757,37.165811
+378,Machakos Plastics Recyclers 378,Machakos,Machakos Town,Machakos Town,Plastics and Packaging,Youth-owned,15,Registered,2016,3,Equipment/machinery,-1.4121,37.312407
+379,Machakos BioWaste Traders 379,Machakos,Athi River,Athi River,Organic Waste,Women-owned,10,Not Registered,2025,4,Certification/standards,-1.63355,37.233475
+380,Machakos Textile Upcyclers 380,Machakos,Athi River,Athi River,Textiles,General/Other,8,Not Registered,2022,2,Access to finance,-1.458849,37.130994
+381,Machakos EcoBrick Works 381,Machakos,Athi River,Athi River,Circular Construction Materials,Women-owned,10,Registered,2021,2,Equipment/machinery,-1.484303,37.347149
+382,Machakos E-Waste Recyclers 382,Machakos,Machakos Town,Machakos Town,Electrical and Electronic Waste (E-waste),PWD-owned,15,Not Registered,2018,5,Certification/standards,-1.589216,37.207671
+383,Machakos Green Compost Co 383,Machakos,Matungulu,Matungulu,Organic Waste,Women-owned,6,Registered,2025,2,Equipment/machinery,-1.461228,37.298872
+384,Machakos Circuit Reclaim 384,Machakos,Matungulu,Matungulu,Electrical and Electronic Waste (E-waste),Youth-owned,10,Not Registered,2017,2,Business registration support,-1.400081,37.297274
+385,Machakos Repurposed Plastics Co 385,Machakos,Mavoko,Mavoko,Plastics and Packaging,Youth-owned,20,Registered,2018,2,Business registration support,-1.595432,37.404444
+386,Machakos Repurposed Plastics Co 386,Machakos,Kangundo,Kangundo,Plastics and Packaging,General/Other,2,Not Registered,2025,4,Technical training,-1.427322,37.24783
+387,Machakos Plastics Recyclers 387,Machakos,Kangundo,Kangundo,Plastics and Packaging,Youth-owned,15,Registered,2023,1,Business registration support,-1.543998,37.280539
+388,Machakos Green Building Materials 388,Machakos,Kangundo,Kangundo,Circular Construction Materials,Youth-owned,6,Registered,2024,2,Equipment/machinery,-1.382593,37.222403
+389,Machakos EcoBrick Works 389,Machakos,Mavoko,Mavoko,Circular Construction Materials,General/Other,6,Registered,2025,2,Access to finance,-1.452926,37.147607
+390,Machakos Green Compost Co 390,Machakos,Matungulu,Matungulu,Organic Waste,General/Other,25,Not Registered,2021,4,Market linkages,-1.555533,37.145297
+391,Machakos PET Collectors 391,Machakos,Matungulu,Matungulu,Plastics and Packaging,General/Other,4,Not Registered,2016,2,Equipment/machinery,-1.608924,37.149624
+392,Machakos E-Waste Recyclers 392,Machakos,Matungulu,Matungulu,Electrical and Electronic Waste (E-waste),Women-owned,3,Not Registered,2015,5,Business registration support,-1.630734,37.380926
+393,Machakos Recycled Blocks Co 393,Machakos,Matungulu,Matungulu,Circular Construction Materials,Women-owned,25,Registered,2017,5,Market linkages,-1.387108,37.365045
+394,Machakos Repurposed Plastics Co 394,Machakos,Matungulu,Matungulu,Plastics and Packaging,General/Other,25,Not Registered,2019,4,Business registration support,-1.485852,37.209953
+395,Machakos TechWaste Solutions 395,Machakos,Mavoko,Mavoko,Electrical and Electronic Waste (E-waste),Women-owned,25,Registered,2020,5,Technical training,-1.531846,37.153412
+396,Machakos Green Building Materials 396,Machakos,Athi River,Athi River,Circular Construction Materials,PWD-owned,20,Not Registered,2017,2,Certification/standards,-1.604786,37.327715
+397,Machakos Reclaimed Materials 397,Machakos,Mavoko,Mavoko,Circular Construction Materials,Women-owned,20,Not Registered,2025,5,Business registration support,-1.454594,37.341633
+398,Machakos Construction Waste Reuse 398,Machakos,Kangundo,Kangundo,Circular Construction Materials,Youth-owned,20,Registered,2019,2,Access to finance,-1.425209,37.270219
+399,Machakos Thrift & Mend 399,Machakos,Mavoko,Mavoko,Textiles,General/Other,1,Registered,2022,2,Business registration support,-1.623771,37.13201
+400,Machakos EcoPack 400,Machakos,Matungulu,Matungulu,Plastics and Packaging,Women-owned,25,Registered,2025,2,Business registration support,-1.408248,37.336124
+401,Machakos Repurposed Plastics Co 401,Machakos,Kangundo,Kangundo,Plastics and Packaging,PWD-owned,1,Not Registered,2018,5,Access to finance,-1.54273,37.349833
+402,Machakos EcoBrick Works 402,Machakos,Athi River,Athi River,Circular Construction Materials,Women-owned,25,Registered,2018,5,Business registration support,-1.394254,37.324789
+403,Machakos Black Soldier Fly Farm 403,Machakos,Athi River,Athi River,Organic Waste,General/Other,8,Registered,2019,5,Access to finance,-1.372664,37.135741
+404,Machakos Construction Waste Reuse 404,Machakos,Athi River,Athi River,Circular Construction Materials,Youth-owned,3,Registered,2020,4,Certification/standards,-1.619421,37.367204
+405,Machakos Recycled Blocks Co 405,Machakos,Matungulu,Matungulu,Circular Construction Materials,General/Other,2,Not Registered,2020,5,Technical training,-1.414758,37.203746
+406,Machakos Green Building Materials 406,Machakos,Athi River,Athi River,Circular Construction Materials,Youth-owned,8,Registered,2018,5,Business registration support,-1.511518,37.349277
+407,Machakos Thrift & Mend 407,Machakos,Mavoko,Mavoko,Textiles,General/Other,12,Not Registered,2025,5,Equipment/machinery,-1.559461,37.178934
+408,Machakos Plastics Recyclers 408,Machakos,Mavoko,Mavoko,Plastics and Packaging,Women-owned,1,Not Registered,2020,5,Market linkages,-1.534,37.384749
+409,Machakos E-Waste Recyclers 409,Machakos,Kangundo,Kangundo,Electrical and Electronic Waste (E-waste),Youth-owned,12,Not Registered,2022,5,Technical training,-1.590723,37.330593
+410,Machakos E-Waste Recyclers 410,Machakos,Mavoko,Mavoko,Electrical and Electronic Waste (E-waste),Women-owned,12,Registered,2025,1,Market linkages,-1.398216,37.171154
+411,Machakos Packaging Solutions 411,Machakos,Athi River,Athi River,Plastics and Packaging,Youth-owned,25,Not Registered,2025,5,Certification/standards,-1.408215,37.240663
+412,Machakos Packaging Solutions 412,Machakos,Machakos Town,Machakos Town,Plastics and Packaging,Youth-owned,5,Registered,2024,1,Market linkages,-1.529932,37.212915
+413,Machakos Thrift & Mend 413,Machakos,Kangundo,Kangundo,Textiles,Women-owned,20,Registered,2015,1,Equipment/machinery,-1.55129,37.302465
+414,Machakos Recycled Blocks Co 414,Machakos,Matungulu,Matungulu,Circular Construction Materials,Women-owned,5,Not Registered,2019,5,Access to finance,-1.654045,37.367875
+415,Machakos Recycled Blocks Co 415,Machakos,Mavoko,Mavoko,Circular Construction Materials,Women-owned,3,Registered,2017,1,Equipment/machinery,-1.438118,37.244703
+416,Machakos E-Waste Hub 416,Machakos,Mavoko,Mavoko,Electrical and Electronic Waste (E-waste),PWD-owned,12,Not Registered,2017,3,Access to finance,-1.37966,37.156623
+417,Machakos Plastics Recyclers 417,Machakos,Machakos Town,Machakos Town,Plastics and Packaging,Women-owned,4,Not Registered,2020,1,Technical training,-1.495884,37.231625
+418,Machakos Kitenge Revival 418,Machakos,Matungulu,Matungulu,Textiles,Women-owned,2,Registered,2024,3,Market linkages,-1.624963,37.168598
+419,Machakos EcoPack 419,Machakos,Kangundo,Kangundo,Plastics and Packaging,PWD-owned,4,Not Registered,2022,3,Access to finance,-1.474298,37.135343
+420,Machakos BioWaste Traders 420,Machakos,Athi River,Athi River,Organic Waste,Youth-owned,6,Registered,2020,1,Market linkages,-1.466311,37.18376
+421,Machakos Construction Waste Reuse 421,Machakos,Matungulu,Matungulu,Circular Construction Materials,General/Other,1,Registered,2018,4,Market linkages,-1.621982,37.283459
+422,Machakos TechWaste Solutions 422,Machakos,Mavoko,Mavoko,Electrical and Electronic Waste (E-waste),General/Other,6,Not Registered,2022,4,Equipment/machinery,-1.627408,37.333292
+423,Machakos Recycled Blocks Co 423,Machakos,Athi River,Athi River,Circular Construction Materials,Youth-owned,4,Registered,2025,2,Business registration support,-1.474035,37.137992
+424,Machakos Plastics Recyclers 424,Machakos,Machakos Town,Machakos Town,Plastics and Packaging,General/Other,15,Registered,2015,5,Equipment/machinery,-1.412824,37.302888
+425,Machakos Construction Waste Reuse 425,Machakos,Matungulu,Matungulu,Circular Construction Materials,Women-owned,8,Registered,2024,2,Technical training,-1.399504,37.275303
+426,Machakos Organic Waste Solutions 426,Machakos,Kangundo,Kangundo,Organic Waste,Women-owned,4,Not Registered,2024,1,Certification/standards,-1.517363,37.140566
+427,Machakos Textile Waste Hub 427,Machakos,Athi River,Athi River,Textiles,General/Other,25,Registered,2020,2,Certification/standards,-1.533834,37.167144
+428,Machakos Packaging Solutions 428,Machakos,Kangundo,Kangundo,Plastics and Packaging,Youth-owned,6,Registered,2022,2,Business registration support,-1.598175,37.192707
+429,Machakos Plastics Recyclers 429,Machakos,Mavoko,Mavoko,Plastics and Packaging,Women-owned,5,Registered,2024,3,Certification/standards,-1.636732,37.403932
+430,Machakos Kitenge Revival 430,Machakos,Kangundo,Kangundo,Textiles,General/Other,8,Not Registered,2018,5,Technical training,-1.558111,37.309401
+431,Machakos EcoBrick Works 431,Machakos,Mavoko,Mavoko,Circular Construction Materials,General/Other,12,Not Registered,2022,5,Access to finance,-1.422529,37.21691
+432,Machakos Fabric Reclaim 432,Machakos,Machakos Town,Machakos Town,Textiles,Youth-owned,15,Not Registered,2016,2,Technical training,-1.513338,37.197643
+433,Machakos Kitenge Revival 433,Machakos,Mavoko,Mavoko,Textiles,Women-owned,3,Registered,2021,2,Business registration support,-1.451623,37.257855
+434,Machakos Packaging Solutions 434,Machakos,Machakos Town,Machakos Town,Plastics and Packaging,Youth-owned,15,Registered,2017,5,Access to finance,-1.629334,37.291104
+435,Machakos Organic Waste Solutions 435,Machakos,Matungulu,Matungulu,Organic Waste,Women-owned,25,Registered,2019,1,Certification/standards,-1.380228,37.293207
+436,Machakos Packaging Solutions 436,Machakos,Kangundo,Kangundo,Plastics and Packaging,Women-owned,15,Registered,2024,2,Equipment/machinery,-1.485742,37.254824
+437,Machakos Textile Waste Hub 437,Machakos,Matungulu,Matungulu,Textiles,Women-owned,15,Registered,2021,4,Business registration support,-1.588344,37.330656
+438,Machakos Circuit Reclaim 438,Machakos,Machakos Town,Machakos Town,Electrical and Electronic Waste (E-waste),General/Other,15,Registered,2022,4,Market linkages,-1.662731,37.270213
+439,Machakos Reclaimed Materials 439,Machakos,Machakos Town,Machakos Town,Circular Construction Materials,General/Other,20,Registered,2024,1,Equipment/machinery,-1.404374,37.272829
+440,Machakos Recycled Blocks Co 440,Machakos,Kangundo,Kangundo,Circular Construction Materials,Youth-owned,4,Not Registered,2022,5,Equipment/machinery,-1.511087,37.224513
+441,Machakos TechWaste Solutions 441,Machakos,Matungulu,Matungulu,Electrical and Electronic Waste (E-waste),General/Other,8,Registered,2022,5,Access to finance,-1.426314,37.385758
+442,Machakos Textile Upcyclers 442,Machakos,Mavoko,Mavoko,Textiles,Youth-owned,25,Not Registered,2024,1,Certification/standards,-1.488212,37.276519
+443,Machakos Recycled Blocks Co 443,Machakos,Matungulu,Matungulu,Circular Construction Materials,PWD-owned,6,Registered,2021,3,Equipment/machinery,-1.665542,37.309764
+444,Machakos Construction Waste Reuse 444,Machakos,Mavoko,Mavoko,Circular Construction Materials,Women-owned,8,Not Registered,2021,3,Certification/standards,-1.411207,37.240468
+445,Machakos Reclaimed Materials 445,Machakos,Kangundo,Kangundo,Circular Construction Materials,Women-owned,6,Not Registered,2021,3,Business registration support,-1.614084,37.281128
+446,Machakos Textile Upcyclers 446,Machakos,Athi River,Athi River,Textiles,Youth-owned,8,Not Registered,2023,2,Business registration support,-1.533722,37.323193
+447,Machakos Recycled Blocks Co 447,Machakos,Athi River,Athi River,Circular Construction Materials,General/Other,15,Registered,2016,2,Equipment/machinery,-1.550969,37.304163
+448,Machakos Organic Waste Solutions 448,Machakos,Mavoko,Mavoko,Organic Waste,Women-owned,20,Registered,2024,4,Business registration support,-1.643688,37.124727
+449,Machakos Packaging Solutions 449,Machakos,Kangundo,Kangundo,Plastics and Packaging,Women-owned,4,Registered,2024,5,Technical training,-1.536008,37.173912
+450,Machakos Reclaimed Materials 450,Machakos,Athi River,Athi River,Circular Construction Materials,Women-owned,2,Not Registered,2021,1,Market linkages,-1.483143,37.315607
+451,Machakos Black Soldier Fly Farm 451,Machakos,Kangundo,Kangundo,Organic Waste,PWD-owned,12,Registered,2023,1,Access to finance,-1.491876,37.268723
+452,Machakos Construction Waste Reuse 452,Machakos,Mavoko,Mavoko,Circular Construction Materials,Women-owned,8,Registered,2019,2,Equipment/machinery,-1.378714,37.196352
+453,Machakos Kitenge Revival 453,Machakos,Matungulu,Matungulu,Textiles,Youth-owned,5,Not Registered,2024,1,Business registration support,-1.635761,37.135116
+454,Machakos Black Soldier Fly Farm 454,Machakos,Kangundo,Kangundo,Organic Waste,General/Other,10,Not Registered,2015,4,Certification/standards,-1.498749,37.34439
+455,Machakos E-Waste Recyclers 455,Machakos,Mavoko,Mavoko,Electrical and Electronic Waste (E-waste),General/Other,8,Not Registered,2023,2,Technical training,-1.647434,37.303499
+456,Makueni Recycled Blocks Co 456,Makueni,Mtito Andei,Mtito Andei,Circular Construction Materials,PWD-owned,12,Not Registered,2022,3,Access to finance,-1.894527,37.473383
+457,Makueni BioWaste Traders 457,Makueni,Kibwezi East,Kibwezi East,Organic Waste,General/Other,25,Registered,2018,2,Equipment/machinery,-1.661946,37.536767
+458,Makueni Organic Waste Solutions 458,Makueni,Kibwezi East,Kibwezi East,Organic Waste,Women-owned,2,Not Registered,2025,2,Access to finance,-1.910904,37.52979
+459,Makueni E-Waste Hub 459,Makueni,Wote,Wote,Electrical and Electronic Waste (E-waste),Youth-owned,15,Registered,2024,4,Technical training,-1.708772,37.634831
+460,Makueni Black Soldier Fly Farm 460,Makueni,Kibwezi East,Kibwezi East,Organic Waste,Youth-owned,3,Registered,2021,2,Business registration support,-1.629518,37.769662
+461,Makueni E-Waste Hub 461,Makueni,Wote,Wote,Electrical and Electronic Waste (E-waste),PWD-owned,2,Not Registered,2022,2,Equipment/machinery,-1.803009,37.581638
+462,Makueni Compost Works 462,Makueni,Wote,Wote,Organic Waste,Youth-owned,5,Registered,2019,3,Business registration support,-1.741223,37.576494
+463,Makueni Thrift & Mend 463,Makueni,Kilungu,Kilungu,Textiles,Youth-owned,8,Not Registered,2020,4,Market linkages,-1.63883,37.563415
+464,Makueni Black Soldier Fly Farm 464,Makueni,Mtito Andei,Mtito Andei,Organic Waste,General/Other,25,Registered,2018,2,Access to finance,-1.821638,37.645607
+465,Makueni EcoBrick Works 465,Makueni,Kilungu,Kilungu,Circular Construction Materials,PWD-owned,3,Registered,2017,4,Access to finance,-1.913317,37.727913
+466,Makueni Reclaimed Materials 466,Makueni,Mtito Andei,Mtito Andei,Circular Construction Materials,Women-owned,8,Registered,2017,5,Access to finance,-1.70118,37.547912
+467,Makueni Packaging Solutions 467,Makueni,Mtito Andei,Mtito Andei,Plastics and Packaging,Women-owned,6,Registered,2023,3,Technical training,-1.812346,37.66665
+468,Makueni BioWaste Traders 468,Makueni,Wote,Wote,Organic Waste,PWD-owned,15,Registered,2025,5,Market linkages,-1.835666,37.566293
+469,Makueni Green Building Materials 469,Makueni,Mtito Andei,Mtito Andei,Circular Construction Materials,Women-owned,8,Registered,2022,4,Access to finance,-1.856061,37.682249
+470,Makueni Fabric Reclaim 470,Makueni,Mtito Andei,Mtito Andei,Textiles,Women-owned,3,Registered,2020,1,Access to finance,-1.832046,37.660332
+471,Makueni BioWaste Traders 471,Makueni,Mtito Andei,Mtito Andei,Organic Waste,General/Other,15,Registered,2022,3,Certification/standards,-1.765961,37.582264
+472,Makueni Circuit Reclaim 472,Makueni,Kibwezi East,Kibwezi East,Electrical and Electronic Waste (E-waste),Youth-owned,25,Not Registered,2018,3,Certification/standards,-1.676384,37.484914
+473,Makueni Kitenge Revival 473,Makueni,Wote,Wote,Textiles,Women-owned,8,Registered,2016,1,Access to finance,-1.949501,37.777146
+474,Makueni PET Collectors 474,Makueni,Kaiti,Kaiti,Plastics and Packaging,General/Other,4,Not Registered,2022,3,Market linkages,-1.928001,37.67564
+475,Makueni Fabric Reclaim 475,Makueni,Kaiti,Kaiti,Textiles,PWD-owned,10,Not Registered,2023,3,Equipment/machinery,-1.682034,37.450186
+476,Makueni Green Compost Co 476,Makueni,Kilungu,Kilungu,Organic Waste,Women-owned,10,Registered,2025,5,Business registration support,-1.935259,37.781355
+477,Makueni EcoBrick Works 477,Makueni,Kaiti,Kaiti,Circular Construction Materials,General/Other,4,Not Registered,2022,4,Business registration support,-1.753577,37.632062
+478,Makueni BioWaste Traders 478,Makueni,Kilungu,Kilungu,Organic Waste,Youth-owned,5,Registered,2015,2,Technical training,-1.890369,37.549186
+479,Makueni Electro Recovery 479,Makueni,Mtito Andei,Mtito Andei,Electrical and Electronic Waste (E-waste),Youth-owned,12,Registered,2021,2,Access to finance,-1.980612,37.594857
+480,Makueni EcoBrick Works 480,Makueni,Kilungu,Kilungu,Circular Construction Materials,Women-owned,5,Registered,2025,4,Market linkages,-1.893937,37.697278
+481,Makueni Textile Waste Hub 481,Makueni,Kaiti,Kaiti,Textiles,Youth-owned,8,Registered,2016,5,Technical training,-1.693173,37.686371
+482,Makueni Fabric Reclaim 482,Makueni,Mtito Andei,Mtito Andei,Textiles,Women-owned,4,Registered,2017,5,Equipment/machinery,-1.944172,37.603823
+483,Makueni EcoPack 483,Makueni,Wote,Wote,Plastics and Packaging,Youth-owned,1,Registered,2017,4,Certification/standards,-1.916962,37.476718
+484,Makueni Repurposed Plastics Co 484,Makueni,Kibwezi East,Kibwezi East,Plastics and Packaging,General/Other,25,Not Registered,2020,3,Equipment/machinery,-1.860811,37.552068
+485,Makueni Packaging Solutions 485,Makueni,Wote,Wote,Plastics and Packaging,Women-owned,5,Not Registered,2015,2,Market linkages,-1.887959,37.581172
+486,Makueni Packaging Solutions 486,Makueni,Kilungu,Kilungu,Plastics and Packaging,PWD-owned,10,Not Registered,2016,1,Market linkages,-1.706259,37.599366
+487,Makueni Green Building Materials 487,Makueni,Kilungu,Kilungu,Circular Construction Materials,General/Other,25,Registered,2023,2,Certification/standards,-1.843816,37.785937
+488,Makueni Recycled Blocks Co 488,Makueni,Mtito Andei,Mtito Andei,Circular Construction Materials,Women-owned,4,Not Registered,2018,1,Certification/standards,-1.810657,37.547473
+489,Makueni TechWaste Solutions 489,Makueni,Wote,Wote,Electrical and Electronic Waste (E-waste),Youth-owned,1,Registered,2022,2,Access to finance,-1.92365,37.539296
+490,Makueni Green Building Materials 490,Makueni,Mtito Andei,Mtito Andei,Circular Construction Materials,Women-owned,20,Registered,2020,5,Technical training,-1.706413,37.52944
+491,Makueni Textile Waste Hub 491,Makueni,Wote,Wote,Textiles,General/Other,25,Registered,2021,3,Equipment/machinery,-1.938602,37.523663
+492,Makueni Organic Waste Solutions 492,Makueni,Mtito Andei,Mtito Andei,Organic Waste,Women-owned,25,Registered,2024,3,Business registration support,-1.660381,37.614609
+493,Makueni Textile Waste Hub 493,Makueni,Mtito Andei,Mtito Andei,Textiles,General/Other,3,Registered,2017,5,Business registration support,-1.867375,37.608522
+494,Makueni TechWaste Solutions 494,Makueni,Mtito Andei,Mtito Andei,Electrical and Electronic Waste (E-waste),General/Other,25,Registered,2015,5,Equipment/machinery,-1.788922,37.603368
+495,Makueni Construction Waste Reuse 495,Makueni,Kaiti,Kaiti,Circular Construction Materials,Women-owned,4,Registered,2022,5,Equipment/machinery,-1.897937,37.699461
+496,Makueni Green Building Materials 496,Makueni,Kaiti,Kaiti,Circular Construction Materials,Women-owned,20,Registered,2017,1,Business registration support,-1.881974,37.58743
+497,Makueni Textile Upcyclers 497,Makueni,Kibwezi East,Kibwezi East,Textiles,Youth-owned,10,Registered,2024,4,Certification/standards,-1.94536,37.508882
+498,Makueni Compost Works 498,Makueni,Mtito Andei,Mtito Andei,Organic Waste,Youth-owned,10,Not Registered,2016,2,Certification/standards,-1.90444,37.698324
+499,Makueni E-Waste Recyclers 499,Makueni,Mtito Andei,Mtito Andei,Electrical and Electronic Waste (E-waste),Women-owned,1,Not Registered,2019,3,Certification/standards,-1.783013,37.777668
+500,Makueni Recycled Blocks Co 500,Makueni,Wote,Wote,Circular Construction Materials,Youth-owned,2,Not Registered,2023,5,Access to finance,-1.683496,37.467957
+501,Makueni Circuit Reclaim 501,Makueni,Kibwezi East,Kibwezi East,Electrical and Electronic Waste (E-waste),Women-owned,25,Registered,2016,2,Business registration support,-1.794471,37.529455
+502,Makueni Construction Waste Reuse 502,Makueni,Kilungu,Kilungu,Circular Construction Materials,Youth-owned,8,Registered,2025,2,Business registration support,-1.730982,37.593647
+503,Makueni Textile Waste Hub 503,Makueni,Kaiti,Kaiti,Textiles,Youth-owned,8,Not Registered,2021,3,Technical training,-1.824416,37.566737
+504,Makueni Green Compost Co 504,Makueni,Kibwezi East,Kibwezi East,Organic Waste,General/Other,10,Registered,2021,3,Technical training,-1.781168,37.516914
+505,Makueni Plastics Recyclers 505,Makueni,Mtito Andei,Mtito Andei,Plastics and Packaging,General/Other,5,Not Registered,2018,3,Access to finance,-1.769425,37.626239
+506,Makueni Compost Works 506,Makueni,Mtito Andei,Mtito Andei,Organic Waste,Women-owned,2,Registered,2020,5,Market linkages,-1.65302,37.623958
+507,Makueni Fabric Reclaim 507,Makueni,Mtito Andei,Mtito Andei,Textiles,Youth-owned,15,Registered,2018,3,Access to finance,-1.85175,37.649476
+508,Makueni PET Collectors 508,Makueni,Kilungu,Kilungu,Plastics and Packaging,PWD-owned,15,Registered,2015,5,Access to finance,-1.921655,37.737154
+509,Makueni EcoBrick Works 509,Makueni,Wote,Wote,Circular Construction Materials,Women-owned,2,Not Registered,2018,4,Equipment/machinery,-1.703056,37.771774
+510,Makueni Recycled Blocks Co 510,Makueni,Kilungu,Kilungu,Circular Construction Materials,Youth-owned,6,Registered,2018,5,Market linkages,-1.964414,37.628678
+511,Makueni Textile Upcyclers 511,Makueni,Kilungu,Kilungu,Textiles,Women-owned,8,Registered,2021,1,Market linkages,-1.634326,37.710922
+512,Makueni Fabric Reclaim 512,Makueni,Mtito Andei,Mtito Andei,Textiles,Youth-owned,2,Registered,2021,4,Technical training,-1.954184,37.645619
+513,Makueni Fabric Reclaim 513,Makueni,Kilungu,Kilungu,Textiles,Women-owned,15,Not Registered,2023,2,Business registration support,-1.782553,37.61553
+514,Makueni Fabric Reclaim 514,Makueni,Wote,Wote,Textiles,PWD-owned,2,Registered,2021,5,Access to finance,-1.888047,37.594724
+515,Makueni BioWaste Traders 515,Makueni,Kibwezi East,Kibwezi East,Organic Waste,Youth-owned,6,Registered,2022,3,Market linkages,-1.868434,37.653696
+516,Makueni Green Building Materials 516,Makueni,Kilungu,Kilungu,Circular Construction Materials,Youth-owned,25,Not Registered,2016,3,Market linkages,-1.967744,37.734442
+517,Makueni Packaging Solutions 517,Makueni,Kaiti,Kaiti,Plastics and Packaging,General/Other,25,Not Registered,2019,1,Technical training,-1.650277,37.752651
+518,Makueni Electro Recovery 518,Makueni,Wote,Wote,Electrical and Electronic Waste (E-waste),Youth-owned,5,Registered,2024,5,Business registration support,-1.864424,37.706305
+519,Makueni Textile Upcyclers 519,Makueni,Kilungu,Kilungu,Textiles,Youth-owned,5,Registered,2024,2,Access to finance,-1.774018,37.67877
+520,Makueni Compost Works 520,Makueni,Kilungu,Kilungu,Organic Waste,Women-owned,20,Registered,2016,3,Certification/standards,-1.748187,37.4429
+521,Makueni PET Collectors 521,Makueni,Kilungu,Kilungu,Plastics and Packaging,General/Other,10,Not Registered,2023,1,Technical training,-1.900679,37.576952
+522,Makueni Packaging Solutions 522,Makueni,Kibwezi East,Kibwezi East,Plastics and Packaging,General/Other,4,Not Registered,2019,1,Access to finance,-1.803666,37.604775
+523,Makueni Black Soldier Fly Farm 523,Makueni,Kilungu,Kilungu,Organic Waste,PWD-owned,5,Registered,2023,3,Certification/standards,-1.715919,37.446514
+524,Makueni Compost Works 524,Makueni,Mtito Andei,Mtito Andei,Organic Waste,General/Other,5,Registered,2020,1,Business registration support,-1.667576,37.760445
+525,Makueni Circuit Reclaim 525,Makueni,Wote,Wote,Electrical and Electronic Waste (E-waste),PWD-owned,4,Registered,2021,2,Equipment/machinery,-1.72114,37.627358
+526,Makueni Green Compost Co 526,Makueni,Mtito Andei,Mtito Andei,Organic Waste,Women-owned,20,Not Registered,2017,5,Business registration support,-1.822199,37.487338
+527,Mombasa Green Compost Co 527,Mombasa,Changamwe,Changamwe,Organic Waste,General/Other,6,Registered,2023,5,Market linkages,-4.051892,39.71728
+528,Mombasa Packaging Solutions 528,Mombasa,Nyali,Nyali,Plastics and Packaging,Youth-owned,8,Registered,2025,3,Equipment/machinery,-4.002757,39.625663
+529,Mombasa Organic Waste Solutions 529,Mombasa,Changamwe,Changamwe,Organic Waste,General/Other,5,Registered,2024,5,Business registration support,-4.090687,39.63037
+530,Mombasa Textile Waste Hub 530,Mombasa,Changamwe,Changamwe,Textiles,Youth-owned,12,Not Registered,2022,4,Market linkages,-4.075791,39.61133
+531,Mombasa Organic Waste Solutions 531,Mombasa,Kisauni,Kisauni,Organic Waste,Youth-owned,1,Not Registered,2021,1,Equipment/machinery,-4.044527,39.624702
+532,Mombasa Fabric Reclaim 532,Mombasa,Changamwe,Changamwe,Textiles,General/Other,25,Registered,2022,5,Equipment/machinery,-4.095564,39.719452
+533,Mombasa Kitenge Revival 533,Mombasa,Kisauni,Kisauni,Textiles,General/Other,15,Not Registered,2024,3,Equipment/machinery,-4.010354,39.681152
+534,Mombasa Reclaimed Materials 534,Mombasa,Jomvu,Jomvu,Circular Construction Materials,Youth-owned,10,Not Registered,2015,1,Equipment/machinery,-4.026533,39.692694
+535,Mombasa Textile Waste Hub 535,Mombasa,Jomvu,Jomvu,Textiles,Women-owned,1,Registered,2022,5,Certification/standards,-4.056027,39.69642
+536,Mombasa TechWaste Solutions 536,Mombasa,Nyali,Nyali,Electrical and Electronic Waste (E-waste),Women-owned,12,Not Registered,2022,1,Certification/standards,-4.048138,39.658895
+537,Mombasa E-Waste Recyclers 537,Mombasa,Mvita,Mvita,Electrical and Electronic Waste (E-waste),Women-owned,8,Registered,2022,5,Market linkages,-4.043421,39.629773
+538,Mombasa Packaging Solutions 538,Mombasa,Kisauni,Kisauni,Plastics and Packaging,Youth-owned,5,Registered,2025,4,Access to finance,-4.032662,39.693716
+539,Mombasa Textile Upcyclers 539,Mombasa,Likoni,Likoni,Textiles,Women-owned,8,Not Registered,2023,5,Certification/standards,-4.0898,39.662128
+540,Mombasa Green Building Materials 540,Mombasa,Kisauni,Kisauni,Circular Construction Materials,Youth-owned,20,Not Registered,2017,3,Business registration support,-4.037458,39.613469
+541,Mombasa Fabric Reclaim 541,Mombasa,Mvita,Mvita,Textiles,PWD-owned,20,Registered,2017,4,Technical training,-4.097343,39.645167
+542,Mombasa Textile Upcyclers 542,Mombasa,Jomvu,Jomvu,Textiles,Women-owned,1,Registered,2022,4,Business registration support,-4.011653,39.609665
+543,Mombasa Fabric Reclaim 543,Mombasa,Jomvu,Jomvu,Textiles,Women-owned,1,Registered,2023,5,Business registration support,-4.024364,39.662649
+544,Mombasa Green Compost Co 544,Mombasa,Mvita,Mvita,Organic Waste,Youth-owned,20,Registered,2017,2,Access to finance,-4.036594,39.70723
+545,Mombasa EcoPack 545,Mombasa,Jomvu,Jomvu,Plastics and Packaging,Youth-owned,3,Registered,2024,4,Market linkages,-4.067687,39.718646
+546,Mombasa Reclaimed Materials 546,Mombasa,Jomvu,Jomvu,Circular Construction Materials,Women-owned,5,Registered,2021,1,Access to finance,-4.08221,39.662841
+547,Mombasa Repurposed Plastics Co 547,Mombasa,Jomvu,Jomvu,Plastics and Packaging,Youth-owned,12,Registered,2018,3,Technical training,-4.095709,39.664698
+548,Mombasa Textile Waste Hub 548,Mombasa,Likoni,Likoni,Textiles,Women-owned,25,Not Registered,2019,1,Equipment/machinery,-4.090384,39.695767
+549,Mombasa E-Waste Hub 549,Mombasa,Nyali,Nyali,Electrical and Electronic Waste (E-waste),Women-owned,15,Registered,2025,2,Business registration support,-4.072341,39.677217
+550,Mombasa Electro Recovery 550,Mombasa,Changamwe,Changamwe,Electrical and Electronic Waste (E-waste),Youth-owned,2,Registered,2025,2,Access to finance,-3.99746,39.636127
+551,Mombasa Packaging Solutions 551,Mombasa,Jomvu,Jomvu,Plastics and Packaging,Women-owned,4,Registered,2018,5,Certification/standards,-3.983622,39.657885
+552,Mombasa BioWaste Traders 552,Mombasa,Likoni,Likoni,Organic Waste,Women-owned,20,Registered,2021,1,Access to finance,-4.066567,39.669003
+553,Mombasa Reclaimed Materials 553,Mombasa,Likoni,Likoni,Circular Construction Materials,General/Other,1,Registered,2022,4,Equipment/machinery,-4.003655,39.631482
+554,Mombasa Kitenge Revival 554,Mombasa,Jomvu,Jomvu,Textiles,General/Other,5,Registered,2025,1,Business registration support,-3.995989,39.663696
+555,Mombasa Green Compost Co 555,Mombasa,Jomvu,Jomvu,Organic Waste,Women-owned,3,Registered,2015,3,Access to finance,-4.101254,39.677488
+556,Mombasa Black Soldier Fly Farm 556,Mombasa,Mvita,Mvita,Organic Waste,Women-owned,2,Not Registered,2019,2,Business registration support,-4.039387,39.628116
+557,Mombasa Compost Works 557,Mombasa,Nyali,Nyali,Organic Waste,Youth-owned,4,Registered,2017,4,Technical training,-4.053836,39.667847
+558,Mombasa PET Collectors 558,Mombasa,Likoni,Likoni,Plastics and Packaging,Women-owned,12,Registered,2020,1,Equipment/machinery,-4.010165,39.717802
+559,Mombasa E-Waste Hub 559,Mombasa,Nyali,Nyali,Electrical and Electronic Waste (E-waste),General/Other,3,Registered,2015,5,Certification/standards,-4.010436,39.625395
+560,Mombasa Electro Recovery 560,Mombasa,Mvita,Mvita,Electrical and Electronic Waste (E-waste),Youth-owned,15,Not Registered,2020,1,Certification/standards,-3.999723,39.6221
+561,Mombasa E-Waste Recyclers 561,Mombasa,Likoni,Likoni,Electrical and Electronic Waste (E-waste),Youth-owned,20,Not Registered,2020,5,Technical training,-4.041031,39.687278
+562,Mombasa Fabric Reclaim 562,Mombasa,Nyali,Nyali,Textiles,Women-owned,3,Registered,2016,1,Technical training,-4.070302,39.646498
+563,Mombasa EcoPack 563,Mombasa,Jomvu,Jomvu,Plastics and Packaging,Women-owned,3,Not Registered,2019,3,Technical training,-4.041813,39.632989
+564,Mombasa Green Building Materials 564,Mombasa,Changamwe,Changamwe,Circular Construction Materials,Women-owned,3,Registered,2025,4,Access to finance,-4.094951,39.681792
+565,Mombasa Plastics Recyclers 565,Mombasa,Kisauni,Kisauni,Plastics and Packaging,Youth-owned,20,Not Registered,2022,5,Business registration support,-4.097044,39.659376
+566,Mombasa Construction Waste Reuse 566,Mombasa,Nyali,Nyali,Circular Construction Materials,General/Other,10,Registered,2016,5,Access to finance,-4.06362,39.631978
+567,Mombasa E-Waste Recyclers 567,Mombasa,Kisauni,Kisauni,Electrical and Electronic Waste (E-waste),General/Other,4,Registered,2024,4,Market linkages,-4.066253,39.68553
+568,Mombasa BioWaste Traders 568,Mombasa,Kisauni,Kisauni,Organic Waste,Women-owned,10,Registered,2022,3,Equipment/machinery,-4.081498,39.718272
+569,Mombasa PET Collectors 569,Mombasa,Kisauni,Kisauni,Plastics and Packaging,General/Other,3,Registered,2021,5,Business registration support,-4.048151,39.628696
+570,Mombasa PET Collectors 570,Mombasa,Jomvu,Jomvu,Plastics and Packaging,Women-owned,8,Registered,2018,4,Business registration support,-4.025566,39.703292
+571,Mombasa Green Building Materials 571,Mombasa,Kisauni,Kisauni,Circular Construction Materials,General/Other,8,Registered,2020,5,Equipment/machinery,-4.057442,39.649086
+572,Mombasa Green Building Materials 572,Mombasa,Changamwe,Changamwe,Circular Construction Materials,General/Other,2,Registered,2022,5,Equipment/machinery,-4.023987,39.617547
+573,Mombasa Green Compost Co 573,Mombasa,Likoni,Likoni,Organic Waste,General/Other,2,Not Registered,2024,1,Business registration support,-4.004857,39.629341
+574,Mombasa TechWaste Solutions 574,Mombasa,Kisauni,Kisauni,Electrical and Electronic Waste (E-waste),Youth-owned,20,Not Registered,2017,2,Business registration support,-4.026101,39.615578
+575,Mombasa Kitenge Revival 575,Mombasa,Jomvu,Jomvu,Textiles,Women-owned,6,Registered,2025,2,Certification/standards,-4.06852,39.682069
+576,Mombasa Black Soldier Fly Farm 576,Mombasa,Mvita,Mvita,Organic Waste,Youth-owned,12,Registered,2017,1,Business registration support,-3.98559,39.649512
+577,Mombasa Compost Works 577,Mombasa,Nyali,Nyali,Organic Waste,Youth-owned,2,Not Registered,2015,5,Technical training,-3.995371,39.724348
+578,Mombasa Kitenge Revival 578,Mombasa,Mvita,Mvita,Textiles,PWD-owned,8,Registered,2025,4,Equipment/machinery,-4.03268,39.683226
+579,Mombasa Kitenge Revival 579,Mombasa,Changamwe,Changamwe,Textiles,General/Other,5,Not Registered,2025,4,Market linkages,-4.080913,39.654351
+580,Mombasa Fabric Reclaim 580,Mombasa,Likoni,Likoni,Textiles,PWD-owned,8,Not Registered,2017,4,Certification/standards,-4.09489,39.610085
+581,Mombasa Packaging Solutions 581,Mombasa,Mvita,Mvita,Plastics and Packaging,General/Other,15,Registered,2023,5,Equipment/machinery,-4.006787,39.711418
+582,Mombasa E-Waste Hub 582,Mombasa,Kisauni,Kisauni,Electrical and Electronic Waste (E-waste),Women-owned,10,Not Registered,2018,1,Business registration support,-4.057334,39.635289
+583,Mombasa Construction Waste Reuse 583,Mombasa,Kisauni,Kisauni,Circular Construction Materials,Youth-owned,10,Not Registered,2016,1,Business registration support,-3.992312,39.677362
+584,Mombasa EcoBrick Works 584,Mombasa,Mvita,Mvita,Circular Construction Materials,Women-owned,12,Registered,2024,3,Equipment/machinery,-4.093892,39.695822
+585,Mombasa Packaging Solutions 585,Mombasa,Kisauni,Kisauni,Plastics and Packaging,PWD-owned,5,Registered,2020,5,Business registration support,-4.02782,39.687848
+586,Mombasa Recycled Blocks Co 586,Mombasa,Kisauni,Kisauni,Circular Construction Materials,Women-owned,6,Not Registered,2019,3,Equipment/machinery,-4.049016,39.716927
+587,Mombasa Organic Waste Solutions 587,Mombasa,Likoni,Likoni,Organic Waste,Youth-owned,1,Registered,2024,5,Technical training,-4.020094,39.679916
+588,Mombasa Textile Waste Hub 588,Mombasa,Likoni,Likoni,Textiles,PWD-owned,10,Registered,2023,1,Technical training,-4.024742,39.64321
+589,Mombasa PET Collectors 589,Mombasa,Nyali,Nyali,Plastics and Packaging,General/Other,2,Registered,2024,1,Certification/standards,-4.087595,39.641917
+590,Mombasa Kitenge Revival 590,Mombasa,Nyali,Nyali,Textiles,PWD-owned,12,Not Registered,2020,4,Market linkages,-4.006559,39.63955
+591,Mombasa Packaging Solutions 591,Mombasa,Jomvu,Jomvu,Plastics and Packaging,Women-owned,4,Registered,2025,4,Equipment/machinery,-3.991427,39.626698
+592,Mombasa Fabric Reclaim 592,Mombasa,Jomvu,Jomvu,Textiles,Women-owned,3,Registered,2022,1,Access to finance,-4.015377,39.649609
+593,Mombasa Black Soldier Fly Farm 593,Mombasa,Mvita,Mvita,Organic Waste,Youth-owned,5,Registered,2021,4,Equipment/machinery,-3.98971,39.718895
+594,Mombasa PET Collectors 594,Mombasa,Kisauni,Kisauni,Plastics and Packaging,Women-owned,12,Registered,2021,1,Access to finance,-4.05766,39.646083
+595,Mombasa Construction Waste Reuse 595,Mombasa,Nyali,Nyali,Circular Construction Materials,Youth-owned,10,Not Registered,2018,5,Equipment/machinery,-4.071061,39.704478
+596,Mombasa Green Building Materials 596,Mombasa,Jomvu,Jomvu,Circular Construction Materials,Youth-owned,20,Registered,2016,5,Access to finance,-4.063011,39.691033
+597,Mombasa Repurposed Plastics Co 597,Mombasa,Likoni,Likoni,Plastics and Packaging,Women-owned,4,Registered,2024,3,Technical training,-4.040468,39.69046
+598,Mombasa Plastics Recyclers 598,Mombasa,Jomvu,Jomvu,Plastics and Packaging,General/Other,2,Registered,2024,1,Certification/standards,-4.024707,39.708455
+599,Mombasa Kitenge Revival 599,Mombasa,Mvita,Mvita,Textiles,General/Other,25,Registered,2019,2,Access to finance,-4.011837,39.685949
+600,Mombasa E-Waste Recyclers 600,Mombasa,Mvita,Mvita,Electrical and Electronic Waste (E-waste),General/Other,3,Not Registered,2019,3,Technical training,-4.049087,39.72763
+601,Mombasa Repurposed Plastics Co 601,Mombasa,Kisauni,Kisauni,Plastics and Packaging,General/Other,10,Registered,2018,3,Market linkages,-4.063581,39.615407
+602,Mombasa EcoBrick Works 602,Mombasa,Changamwe,Changamwe,Circular Construction Materials,Women-owned,15,Registered,2022,4,Market linkages,-4.026042,39.621212
+603,Mombasa Compost Works 603,Mombasa,Likoni,Likoni,Organic Waste,Youth-owned,10,Registered,2025,4,Access to finance,-4.09475,39.676761
+604,Mombasa Plastics Recyclers 604,Mombasa,Mvita,Mvita,Plastics and Packaging,Women-owned,1,Registered,2022,4,Business registration support,-4.056642,39.626393
+605,Mombasa Electro Recovery 605,Mombasa,Kisauni,Kisauni,Electrical and Electronic Waste (E-waste),General/Other,1,Registered,2022,5,Market linkages,-4.002214,39.701912
+606,Mombasa EcoPack 606,Mombasa,Jomvu,Jomvu,Plastics and Packaging,PWD-owned,20,Not Registered,2025,4,Access to finance,-3.991295,39.65127
+607,Mombasa PET Collectors 607,Mombasa,Jomvu,Jomvu,Plastics and Packaging,General/Other,4,Registered,2015,3,Certification/standards,-4.001099,39.649008
+608,Mombasa Circuit Reclaim 608,Mombasa,Nyali,Nyali,Electrical and Electronic Waste (E-waste),Women-owned,2,Not Registered,2022,3,Equipment/machinery,-4.019994,39.715775
+609,Mombasa Fabric Reclaim 609,Mombasa,Likoni,Likoni,Textiles,Women-owned,2,Not Registered,2025,4,Equipment/machinery,-4.080329,39.694569
+610,Mombasa Black Soldier Fly Farm 610,Mombasa,Jomvu,Jomvu,Organic Waste,General/Other,6,Registered,2015,1,Access to finance,-3.987706,39.705613
+611,Mombasa E-Waste Recyclers 611,Mombasa,Changamwe,Changamwe,Electrical and Electronic Waste (E-waste),Women-owned,25,Registered,2016,5,Market linkages,-4.006648,39.688278
+612,Mombasa Packaging Solutions 612,Mombasa,Kisauni,Kisauni,Plastics and Packaging,General/Other,25,Registered,2015,1,Market linkages,-4.02504,39.664746
+613,Mombasa Textile Upcyclers 613,Mombasa,Nyali,Nyali,Textiles,Women-owned,2,Registered,2024,5,Access to finance,-4.005011,39.619875
+614,Mombasa Green Building Materials 614,Mombasa,Likoni,Likoni,Circular Construction Materials,General/Other,2,Not Registered,2024,4,Technical training,-4.006966,39.659345
+615,Mombasa Green Building Materials 615,Mombasa,Nyali,Nyali,Circular Construction Materials,General/Other,6,Registered,2019,5,Market linkages,-4.003129,39.703372
+616,Mombasa Kitenge Revival 616,Mombasa,Changamwe,Changamwe,Textiles,Women-owned,3,Registered,2025,5,Access to finance,-4.019945,39.674609
+617,Mombasa EcoBrick Works 617,Mombasa,Changamwe,Changamwe,Circular Construction Materials,Youth-owned,25,Registered,2019,2,Access to finance,-4.101624,39.666636
+618,Mombasa Electro Recovery 618,Mombasa,Mvita,Mvita,Electrical and Electronic Waste (E-waste),Youth-owned,4,Not Registered,2024,4,Equipment/machinery,-4.088273,39.625371
+619,Mombasa EcoPack 619,Mombasa,Changamwe,Changamwe,Plastics and Packaging,Youth-owned,8,Registered,2018,3,Technical training,-4.017436,39.681646
+620,Mombasa Textile Upcyclers 620,Mombasa,Jomvu,Jomvu,Textiles,General/Other,4,Registered,2025,5,Business registration support,-3.986285,39.682471
+621,Mombasa Thrift & Mend 621,Mombasa,Likoni,Likoni,Textiles,PWD-owned,3,Registered,2015,4,Equipment/machinery,-4.080254,39.703794
+622,Mombasa PET Collectors 622,Mombasa,Nyali,Nyali,Plastics and Packaging,Women-owned,2,Not Registered,2023,4,Access to finance,-4.078349,39.638366
+623,Mombasa Fabric Reclaim 623,Mombasa,Likoni,Likoni,Textiles,General/Other,15,Registered,2018,4,Business registration support,-4.045293,39.622128
+624,Mombasa Organic Waste Solutions 624,Mombasa,Likoni,Likoni,Organic Waste,PWD-owned,4,Registered,2024,2,Equipment/machinery,-4.064364,39.619968
+625,Mombasa E-Waste Recyclers 625,Mombasa,Kisauni,Kisauni,Electrical and Electronic Waste (E-waste),Women-owned,3,Registered,2018,4,Technical training,-4.086107,39.719546
+626,Mombasa BioWaste Traders 626,Mombasa,Changamwe,Changamwe,Organic Waste,Women-owned,2,Not Registered,2022,3,Market linkages,-4.063193,39.612051
+627,Mombasa Circuit Reclaim 627,Mombasa,Nyali,Nyali,Electrical and Electronic Waste (E-waste),Youth-owned,15,Not Registered,2018,5,Market linkages,-4.077118,39.643619
+628,Mombasa Repurposed Plastics Co 628,Mombasa,Jomvu,Jomvu,Plastics and Packaging,Women-owned,1,Not Registered,2018,4,Technical training,-4.044794,39.72768
+629,Mombasa Thrift & Mend 629,Mombasa,Kisauni,Kisauni,Textiles,Women-owned,1,Registered,2015,2,Business registration support,-4.033964,39.715219
+630,Mombasa Repurposed Plastics Co 630,Mombasa,Mvita,Mvita,Plastics and Packaging,Women-owned,2,Registered,2018,4,Certification/standards,-4.011267,39.612234
+631,Mombasa EcoPack 631,Mombasa,Likoni,Likoni,Plastics and Packaging,Youth-owned,4,Registered,2016,3,Technical training,-4.020321,39.656994
+632,Mombasa Repurposed Plastics Co 632,Mombasa,Mvita,Mvita,Plastics and Packaging,General/Other,10,Registered,2017,5,Access to finance,-4.06692,39.692597
+633,Mombasa Circuit Reclaim 633,Mombasa,Nyali,Nyali,Electrical and Electronic Waste (E-waste),Youth-owned,25,Registered,2015,1,Equipment/machinery,-4.028283,39.692668
+634,Mombasa Black Soldier Fly Farm 634,Mombasa,Nyali,Nyali,Organic Waste,Women-owned,2,Registered,2020,2,Certification/standards,-4.019733,39.6817
+635,Mombasa EcoPack 635,Mombasa,Mvita,Mvita,Plastics and Packaging,Women-owned,1,Registered,2017,4,Business registration support,-4.059821,39.614388
+636,Mombasa Recycled Blocks Co 636,Mombasa,Jomvu,Jomvu,Circular Construction Materials,General/Other,2,Registered,2024,2,Business registration support,-4.01838,39.632766
+637,Mombasa Fabric Reclaim 637,Mombasa,Nyali,Nyali,Textiles,PWD-owned,2,Registered,2022,3,Access to finance,-4.061175,39.640283
+638,Mombasa E-Waste Hub 638,Mombasa,Jomvu,Jomvu,Electrical and Electronic Waste (E-waste),Women-owned,10,Registered,2025,5,Technical training,-4.003953,39.66462
+639,Mombasa Packaging Solutions 639,Mombasa,Kisauni,Kisauni,Plastics and Packaging,Youth-owned,3,Registered,2017,1,Access to finance,-4.093023,39.655082
+640,Mombasa Circuit Reclaim 640,Mombasa,Changamwe,Changamwe,Electrical and Electronic Waste (E-waste),Youth-owned,10,Registered,2022,5,Market linkages,-4.041017,39.683473
+641,Mombasa PET Collectors 641,Mombasa,Changamwe,Changamwe,Plastics and Packaging,Youth-owned,6,Registered,2020,5,Certification/standards,-4.095946,39.712815
+642,Mombasa Black Soldier Fly Farm 642,Mombasa,Jomvu,Jomvu,Organic Waste,Women-owned,15,Registered,2019,4,Technical training,-4.023597,39.67182
+643,Mombasa Thrift & Mend 643,Mombasa,Changamwe,Changamwe,Textiles,General/Other,6,Registered,2017,1,Market linkages,-4.045391,39.724687
+644,Mombasa Green Building Materials 644,Mombasa,Mvita,Mvita,Circular Construction Materials,Youth-owned,4,Registered,2020,2,Market linkages,-4.039262,39.630074
+645,Mombasa Green Building Materials 645,Mombasa,Kisauni,Kisauni,Circular Construction Materials,Women-owned,6,Not Registered,2017,1,Certification/standards,-4.072251,39.63034
+646,Mombasa Black Soldier Fly Farm 646,Mombasa,Jomvu,Jomvu,Organic Waste,Youth-owned,10,Not Registered,2022,1,Equipment/machinery,-3.986444,39.672237
+647,Mombasa Organic Waste Solutions 647,Mombasa,Likoni,Likoni,Organic Waste,Women-owned,5,Not Registered,2024,3,Equipment/machinery,-3.987082,39.673737
+648,Mombasa Textile Waste Hub 648,Mombasa,Mvita,Mvita,Textiles,PWD-owned,3,Registered,2016,4,Access to finance,-3.994674,39.661253
+649,Mombasa Compost Works 649,Mombasa,Kisauni,Kisauni,Organic Waste,Women-owned,15,Registered,2024,3,Access to finance,-4.029397,39.634644
+650,Mombasa Green Building Materials 650,Mombasa,Nyali,Nyali,Circular Construction Materials,General/Other,8,Registered,2020,1,Business registration support,-4.080014,39.618231
+651,Mombasa Reclaimed Materials 651,Mombasa,Jomvu,Jomvu,Circular Construction Materials,Women-owned,8,Registered,2020,2,Certification/standards,-3.990292,39.717214
+652,Mombasa PET Collectors 652,Mombasa,Nyali,Nyali,Plastics and Packaging,General/Other,25,Not Registered,2021,1,Market linkages,-4.061337,39.725503
+653,Mombasa TechWaste Solutions 653,Mombasa,Changamwe,Changamwe,Electrical and Electronic Waste (E-waste),Women-owned,15,Registered,2017,4,Market linkages,-4.006819,39.724643
+654,Mombasa Thrift & Mend 654,Mombasa,Kisauni,Kisauni,Textiles,Women-owned,2,Registered,2025,5,Equipment/machinery,-3.984894,39.671236
+655,Mombasa Black Soldier Fly Farm 655,Mombasa,Changamwe,Changamwe,Organic Waste,General/Other,3,Not Registered,2019,2,Market linkages,-4.036802,39.69343
+656,Mombasa EcoBrick Works 656,Mombasa,Likoni,Likoni,Circular Construction Materials,Women-owned,25,Registered,2015,4,Business registration support,-4.004764,39.644439
+657,Mombasa Packaging Solutions 657,Mombasa,Nyali,Nyali,Plastics and Packaging,Women-owned,20,Not Registered,2021,1,Certification/standards,-4.06748,39.685067
+658,Mombasa Kitenge Revival 658,Mombasa,Mvita,Mvita,Textiles,General/Other,15,Not Registered,2024,4,Access to finance,-4.026126,39.611613
+659,Kilifi E-Waste Hub 659,Kilifi,Ganze,Ganze,Electrical and Electronic Waste (E-waste),Women-owned,12,Not Registered,2015,1,Technical training,-3.363362,39.960498
+660,Kilifi Organic Waste Solutions 660,Kilifi,Rabai,Rabai,Organic Waste,General/Other,3,Registered,2020,2,Technical training,-3.687296,39.837172
+661,Kilifi TechWaste Solutions 661,Kilifi,Malindi Town,Malindi Town,Electrical and Electronic Waste (E-waste),General/Other,20,Registered,2016,5,Market linkages,-3.594758,39.921145
+662,Kilifi Green Building Materials 662,Kilifi,Rabai,Rabai,Circular Construction Materials,General/Other,20,Not Registered,2020,3,Technical training,-3.581657,39.835784
+663,Kilifi EcoPack 663,Kilifi,Rabai,Rabai,Plastics and Packaging,Youth-owned,10,Registered,2017,3,Technical training,-3.570048,39.766787
+664,Kilifi Packaging Solutions 664,Kilifi,Kilifi North,Kilifi North,Plastics and Packaging,General/Other,25,Not Registered,2023,5,Business registration support,-3.509347,40.041929
+665,Kilifi Reclaimed Materials 665,Kilifi,Malindi Town,Malindi Town,Circular Construction Materials,Youth-owned,10,Registered,2020,2,Access to finance,-3.543761,40.075712
+666,Kilifi Kitenge Revival 666,Kilifi,Rabai,Rabai,Textiles,Youth-owned,25,Not Registered,2018,3,Access to finance,-3.501452,40.097345
+667,Kilifi Fabric Reclaim 667,Kilifi,Kilifi North,Kilifi North,Textiles,General/Other,2,Registered,2022,4,Certification/standards,-3.587729,39.793236
+668,Kilifi E-Waste Recyclers 668,Kilifi,Kilifi North,Kilifi North,Electrical and Electronic Waste (E-waste),Women-owned,2,Not Registered,2015,1,Equipment/machinery,-3.667573,40.026522
+669,Kilifi PET Collectors 669,Kilifi,Malindi Town,Malindi Town,Plastics and Packaging,General/Other,4,Registered,2020,2,Business registration support,-3.40888,40.022248
+670,Kilifi Plastics Recyclers 670,Kilifi,Kilifi North,Kilifi North,Plastics and Packaging,General/Other,3,Not Registered,2024,3,Technical training,-3.372355,40.086038
+671,Kilifi Textile Waste Hub 671,Kilifi,Rabai,Rabai,Textiles,General/Other,25,Registered,2019,5,Market linkages,-3.683365,40.037135
+672,Kilifi Textile Waste Hub 672,Kilifi,Malindi Town,Malindi Town,Textiles,Youth-owned,10,Registered,2024,5,Certification/standards,-3.321268,39.748774
+673,Kilifi Kitenge Revival 673,Kilifi,Malindi Town,Malindi Town,Textiles,Women-owned,4,Registered,2020,2,Business registration support,-3.638361,39.851229
+674,Kilifi Repurposed Plastics Co 674,Kilifi,Malindi Town,Malindi Town,Plastics and Packaging,Women-owned,25,Registered,2020,3,Business registration support,-3.502809,39.907626
+675,Kilifi E-Waste Recyclers 675,Kilifi,Ganze,Ganze,Electrical and Electronic Waste (E-waste),Youth-owned,12,Registered,2021,4,Market linkages,-3.597255,39.949456
+676,Kilifi Textile Upcyclers 676,Kilifi,Ganze,Ganze,Textiles,Youth-owned,2,Registered,2023,4,Certification/standards,-3.335067,39.856277
+677,Kilifi Plastics Recyclers 677,Kilifi,Kilifi North,Kilifi North,Plastics and Packaging,General/Other,6,Not Registered,2020,2,Access to finance,-3.552775,39.987315
+678,Kilifi Textile Waste Hub 678,Kilifi,Ganze,Ganze,Textiles,PWD-owned,15,Registered,2025,3,Certification/standards,-3.661595,40.044544
+679,Kilifi TechWaste Solutions 679,Kilifi,Ganze,Ganze,Electrical and Electronic Waste (E-waste),General/Other,3,Not Registered,2016,5,Technical training,-3.444029,40.089356
+680,Kilifi PET Collectors 680,Kilifi,Ganze,Ganze,Plastics and Packaging,Youth-owned,1,Not Registered,2022,1,Certification/standards,-3.51179,39.960648
+681,Kilifi Packaging Solutions 681,Kilifi,Ganze,Ganze,Plastics and Packaging,Youth-owned,2,Registered,2023,5,Access to finance,-3.468866,39.840082
+682,Kilifi Electro Recovery 682,Kilifi,Kilifi North,Kilifi North,Electrical and Electronic Waste (E-waste),Women-owned,12,Registered,2015,5,Technical training,-3.593275,39.90846
+683,Kilifi E-Waste Recyclers 683,Kilifi,Ganze,Ganze,Electrical and Electronic Waste (E-waste),Women-owned,3,Registered,2019,1,Access to finance,-3.530654,40.05045
+684,Kilifi Kitenge Revival 684,Kilifi,Ganze,Ganze,Textiles,Women-owned,20,Registered,2023,1,Business registration support,-3.656905,39.995589
+685,Kilifi Reclaimed Materials 685,Kilifi,Ganze,Ganze,Circular Construction Materials,Women-owned,10,Registered,2021,4,Technical training,-3.520336,40.051041
+686,Kilifi Construction Waste Reuse 686,Kilifi,Bamba,Bamba,Circular Construction Materials,Youth-owned,25,Registered,2025,3,Technical training,-3.582507,39.720559
+687,Kilifi Black Soldier Fly Farm 687,Kilifi,Malindi Town,Malindi Town,Organic Waste,Women-owned,4,Registered,2025,1,Certification/standards,-3.539441,40.106078
+688,Kilifi Green Compost Co 688,Kilifi,Malindi Town,Malindi Town,Organic Waste,Youth-owned,1,Registered,2015,3,Market linkages,-3.346544,39.7355
+689,Kilifi Electro Recovery 689,Kilifi,Rabai,Rabai,Electrical and Electronic Waste (E-waste),Youth-owned,1,Not Registered,2021,4,Business registration support,-3.504796,39.877769
+690,Kilifi EcoBrick Works 690,Kilifi,Bamba,Bamba,Circular Construction Materials,Youth-owned,10,Registered,2025,2,Technical training,-3.481685,40.032631
+691,Kilifi Organic Waste Solutions 691,Kilifi,Rabai,Rabai,Organic Waste,Youth-owned,4,Registered,2015,1,Business registration support,-3.590892,40.097071
+692,Kilifi Green Compost Co 692,Kilifi,Ganze,Ganze,Organic Waste,General/Other,15,Registered,2016,5,Access to finance,-3.388859,39.959129
+693,Kilifi Reclaimed Materials 693,Kilifi,Ganze,Ganze,Circular Construction Materials,Youth-owned,5,Registered,2023,3,Business registration support,-3.539858,39.848227
+694,Kilifi Organic Waste Solutions 694,Kilifi,Ganze,Ganze,Organic Waste,Women-owned,1,Registered,2023,5,Market linkages,-3.54978,39.959286
+695,Kilifi Textile Waste Hub 695,Kilifi,Ganze,Ganze,Textiles,PWD-owned,20,Registered,2024,4,Technical training,-3.625519,40.094147
+696,Kilifi E-Waste Hub 696,Kilifi,Malindi Town,Malindi Town,Electrical and Electronic Waste (E-waste),Youth-owned,20,Not Registered,2021,2,Certification/standards,-3.501792,39.85501
+697,Kilifi TechWaste Solutions 697,Kilifi,Malindi Town,Malindi Town,Electrical and Electronic Waste (E-waste),Youth-owned,3,Registered,2024,3,Certification/standards,-3.457129,40.047687
+698,Kilifi Kitenge Revival 698,Kilifi,Kilifi North,Kilifi North,Textiles,Youth-owned,10,Registered,2021,3,Equipment/machinery,-3.665277,39.786066
+699,Kilifi E-Waste Recyclers 699,Kilifi,Kilifi North,Kilifi North,Electrical and Electronic Waste (E-waste),Youth-owned,12,Registered,2015,3,Certification/standards,-3.646957,39.763872
+700,Kilifi E-Waste Recyclers 700,Kilifi,Malindi Town,Malindi Town,Electrical and Electronic Waste (E-waste),Women-owned,6,Registered,2016,1,Equipment/machinery,-3.366866,39.742872
+701,Kilifi Circuit Reclaim 701,Kilifi,Kilifi North,Kilifi North,Electrical and Electronic Waste (E-waste),General/Other,15,Not Registered,2023,5,Certification/standards,-3.665927,40.003092
+702,Kilifi Black Soldier Fly Farm 702,Kilifi,Malindi Town,Malindi Town,Organic Waste,General/Other,25,Registered,2018,3,Business registration support,-3.615469,39.758211
+703,Kilifi Circuit Reclaim 703,Kilifi,Kilifi North,Kilifi North,Electrical and Electronic Waste (E-waste),Youth-owned,15,Registered,2023,4,Technical training,-3.667974,39.794943
+704,Kilifi Compost Works 704,Kilifi,Bamba,Bamba,Organic Waste,Youth-owned,6,Registered,2020,3,Market linkages,-3.492402,39.899242
+705,Kilifi Compost Works 705,Kilifi,Rabai,Rabai,Organic Waste,General/Other,20,Registered,2023,1,Certification/standards,-3.696776,40.00508
+706,Kilifi TechWaste Solutions 706,Kilifi,Bamba,Bamba,Electrical and Electronic Waste (E-waste),Women-owned,8,Registered,2021,2,Equipment/machinery,-3.349437,39.983399
+707,Kilifi BioWaste Traders 707,Kilifi,Malindi Town,Malindi Town,Organic Waste,Youth-owned,20,Registered,2025,2,Equipment/machinery,-3.336171,40.011967
+708,Kilifi E-Waste Recyclers 708,Kilifi,Bamba,Bamba,Electrical and Electronic Waste (E-waste),General/Other,8,Not Registered,2020,4,Certification/standards,-3.364122,40.038579
+709,Kilifi E-Waste Recyclers 709,Kilifi,Kilifi North,Kilifi North,Electrical and Electronic Waste (E-waste),Women-owned,12,Not Registered,2022,5,Certification/standards,-3.431307,39.911834
+710,Kilifi Plastics Recyclers 710,Kilifi,Kilifi North,Kilifi North,Plastics and Packaging,Youth-owned,20,Registered,2024,4,Market linkages,-3.458637,40.025708
+711,Kilifi Plastics Recyclers 711,Kilifi,Kilifi North,Kilifi North,Plastics and Packaging,General/Other,20,Registered,2020,2,Business registration support,-3.610859,39.994726
+712,Kilifi Electro Recovery 712,Kilifi,Kilifi North,Kilifi North,Electrical and Electronic Waste (E-waste),General/Other,2,Registered,2017,3,Market linkages,-3.606428,39.984287
+713,Kilifi Electro Recovery 713,Kilifi,Rabai,Rabai,Electrical and Electronic Waste (E-waste),General/Other,4,Not Registered,2022,5,Certification/standards,-3.620905,40.088544
+714,Kilifi Thrift & Mend 714,Kilifi,Kilifi North,Kilifi North,Textiles,Women-owned,6,Registered,2024,2,Access to finance,-3.690787,39.956502
+715,Kilifi Plastics Recyclers 715,Kilifi,Rabai,Rabai,Plastics and Packaging,Women-owned,4,Not Registered,2018,4,Access to finance,-3.536637,40.077296
+716,Kilifi BioWaste Traders 716,Kilifi,Ganze,Ganze,Organic Waste,Youth-owned,25,Registered,2021,2,Technical training,-3.557871,39.881823
+717,Kilifi Kitenge Revival 717,Kilifi,Kilifi North,Kilifi North,Textiles,Youth-owned,6,Registered,2025,4,Market linkages,-3.699191,40.099751
+718,Kilifi E-Waste Recyclers 718,Kilifi,Malindi Town,Malindi Town,Electrical and Electronic Waste (E-waste),General/Other,4,Not Registered,2021,4,Certification/standards,-3.523147,40.057877
+719,Kilifi Construction Waste Reuse 719,Kilifi,Malindi Town,Malindi Town,Circular Construction Materials,Women-owned,6,Not Registered,2025,2,Equipment/machinery,-3.672588,39.732801
+720,Kilifi Recycled Blocks Co 720,Kilifi,Malindi Town,Malindi Town,Circular Construction Materials,Youth-owned,6,Registered,2023,4,Certification/standards,-3.609237,39.957163
+721,Kilifi EcoPack 721,Kilifi,Kilifi North,Kilifi North,Plastics and Packaging,General/Other,2,Registered,2023,4,Market linkages,-3.606583,39.910799
+722,Kilifi Circuit Reclaim 722,Kilifi,Bamba,Bamba,Electrical and Electronic Waste (E-waste),Youth-owned,6,Not Registered,2019,3,Certification/standards,-3.663963,39.726965
+723,Kilifi Green Compost Co 723,Kilifi,Bamba,Bamba,Organic Waste,Youth-owned,12,Not Registered,2025,4,Market linkages,-3.503911,39.88361
+724,Kilifi E-Waste Recyclers 724,Kilifi,Kilifi North,Kilifi North,Electrical and Electronic Waste (E-waste),Youth-owned,25,Registered,2016,3,Market linkages,-3.651252,39.801244
+725,Kilifi E-Waste Recyclers 725,Kilifi,Ganze,Ganze,Electrical and Electronic Waste (E-waste),Women-owned,25,Not Registered,2016,4,Access to finance,-3.568092,39.992912
+726,Kilifi Compost Works 726,Kilifi,Kilifi North,Kilifi North,Organic Waste,Youth-owned,15,Not Registered,2024,5,Technical training,-3.363431,39.781562
+727,Kilifi Textile Waste Hub 727,Kilifi,Malindi Town,Malindi Town,Textiles,Women-owned,10,Registered,2020,1,Market linkages,-3.500294,39.937615
+728,Kilifi PET Collectors 728,Kilifi,Malindi Town,Malindi Town,Plastics and Packaging,General/Other,1,Registered,2025,3,Market linkages,-3.553032,39.945435
+729,Kilifi Electro Recovery 729,Kilifi,Bamba,Bamba,Electrical and Electronic Waste (E-waste),General/Other,6,Not Registered,2024,5,Equipment/machinery,-3.473018,39.711622
+730,Kilifi Fabric Reclaim 730,Kilifi,Malindi Town,Malindi Town,Textiles,General/Other,15,Registered,2021,1,Business registration support,-3.390077,39.822482
+731,Kilifi Organic Waste Solutions 731,Kilifi,Kilifi North,Kilifi North,Organic Waste,Youth-owned,8,Not Registered,2019,2,Market linkages,-3.32468,40.055506
+732,Kilifi Textile Upcyclers 732,Kilifi,Bamba,Bamba,Textiles,General/Other,15,Registered,2025,3,Certification/standards,-3.514362,39.882243
+733,Kilifi PET Collectors 733,Kilifi,Rabai,Rabai,Plastics and Packaging,Women-owned,15,Registered,2021,3,Business registration support,-3.630751,39.887477
+734,Kilifi Green Compost Co 734,Kilifi,Kilifi North,Kilifi North,Organic Waste,Youth-owned,20,Registered,2025,3,Equipment/machinery,-3.537058,39.879707
+735,Kilifi Kitenge Revival 735,Kilifi,Rabai,Rabai,Textiles,Youth-owned,10,Registered,2017,4,Access to finance,-3.458876,39.919171
+736,Kilifi Organic Waste Solutions 736,Kilifi,Rabai,Rabai,Organic Waste,Women-owned,2,Registered,2021,1,Business registration support,-3.539607,39.936714
+737,Kilifi Repurposed Plastics Co 737,Kilifi,Rabai,Rabai,Plastics and Packaging,Women-owned,2,Not Registered,2022,5,Access to finance,-3.38557,39.851483
+738,Kilifi Fabric Reclaim 738,Kilifi,Ganze,Ganze,Textiles,PWD-owned,25,Registered,2025,3,Business registration support,-3.692597,39.875801
+739,Kilifi E-Waste Hub 739,Kilifi,Bamba,Bamba,Electrical and Electronic Waste (E-waste),General/Other,2,Not Registered,2024,2,Market linkages,-3.574166,40.076545
+740,Kilifi Compost Works 740,Kilifi,Ganze,Ganze,Organic Waste,Youth-owned,10,Registered,2021,2,Certification/standards,-3.49695,39.711639
+741,Kilifi EcoBrick Works 741,Kilifi,Bamba,Bamba,Circular Construction Materials,Women-owned,2,Registered,2015,4,Technical training,-3.4633,40.098869
+742,Kilifi Textile Upcyclers 742,Kilifi,Malindi Town,Malindi Town,Textiles,Youth-owned,3,Registered,2021,4,Certification/standards,-3.432287,39.784588
+743,Kilifi Green Building Materials 743,Kilifi,Malindi Town,Malindi Town,Circular Construction Materials,Women-owned,3,Not Registered,2022,1,Access to finance,-3.590333,39.89467
+744,Kilifi Electro Recovery 744,Kilifi,Malindi Town,Malindi Town,Electrical and Electronic Waste (E-waste),Youth-owned,1,Registered,2016,5,Equipment/machinery,-3.366781,39.943391
+745,Kilifi Electro Recovery 745,Kilifi,Ganze,Ganze,Electrical and Electronic Waste (E-waste),Women-owned,10,Registered,2023,3,Access to finance,-3.415869,39.947636
+746,Kilifi Reclaimed Materials 746,Kilifi,Ganze,Ganze,Circular Construction Materials,Youth-owned,12,Registered,2025,5,Technical training,-3.617938,39.733582
+747,Kilifi Electro Recovery 747,Kilifi,Malindi Town,Malindi Town,Electrical and Electronic Waste (E-waste),Women-owned,3,Registered,2018,4,Access to finance,-3.512784,40.084886
+748,Kilifi TechWaste Solutions 748,Kilifi,Ganze,Ganze,Electrical and Electronic Waste (E-waste),General/Other,25,Registered,2017,3,Business registration support,-3.617859,39.797181
+749,Kilifi Black Soldier Fly Farm 749,Kilifi,Ganze,Ganze,Organic Waste,PWD-owned,15,Registered,2016,4,Market linkages,-3.377468,39.978543
+750,Kwale Circuit Reclaim 750,Kwale,Lunga Lunga,Lunga Lunga,Electrical and Electronic Waste (E-waste),Youth-owned,5,Registered,2023,4,Equipment/machinery,-4.282286,39.49017
+751,Kwale Plastics Recyclers 751,Kwale,Matuga,Matuga,Plastics and Packaging,Youth-owned,2,Registered,2016,5,Access to finance,-4.036974,39.400636
+752,Kwale Green Building Materials 752,Kwale,Msambweni,Msambweni,Circular Construction Materials,General/Other,12,Registered,2017,3,Access to finance,-4.151787,39.447192
+753,Kwale Reclaimed Materials 753,Kwale,Msambweni,Msambweni,Circular Construction Materials,Women-owned,2,Not Registered,2024,4,Access to finance,-4.099794,39.605688
+754,Kwale EcoPack 754,Kwale,Msambweni,Msambweni,Plastics and Packaging,Youth-owned,3,Not Registered,2022,2,Technical training,-4.17147,39.332237
+755,Kwale EcoBrick Works 755,Kwale,Msambweni,Msambweni,Circular Construction Materials,General/Other,10,Not Registered,2015,1,Market linkages,-4.298554,39.403045
+756,Kwale Kitenge Revival 756,Kwale,Matuga,Matuga,Textiles,Youth-owned,20,Registered,2017,4,Technical training,-4.250867,39.333754
+757,Kwale EcoBrick Works 757,Kwale,Lunga Lunga,Lunga Lunga,Circular Construction Materials,General/Other,20,Registered,2015,4,Business registration support,-4.304422,39.426476
+758,Kwale Circuit Reclaim 758,Kwale,Msambweni,Msambweni,Electrical and Electronic Waste (E-waste),Youth-owned,8,Not Registered,2017,3,Technical training,-4.095755,39.458346
+759,Kwale E-Waste Recyclers 759,Kwale,Kinango,Kinango,Electrical and Electronic Waste (E-waste),Women-owned,20,Not Registered,2025,5,Access to finance,-4.080791,39.509763
+760,Kwale Construction Waste Reuse 760,Kwale,Kinango,Kinango,Circular Construction Materials,Women-owned,25,Registered,2020,3,Certification/standards,-4.209379,39.517213
+761,Kwale PET Collectors 761,Kwale,Diani,Diani,Plastics and Packaging,Women-owned,15,Not Registered,2025,2,Business registration support,-4.134356,39.32497
+762,Kwale TechWaste Solutions 762,Kwale,Kinango,Kinango,Electrical and Electronic Waste (E-waste),Youth-owned,8,Not Registered,2017,5,Technical training,-4.074956,39.589251
+763,Kwale Reclaimed Materials 763,Kwale,Matuga,Matuga,Circular Construction Materials,Youth-owned,3,Registered,2023,3,Certification/standards,-4.277156,39.456302
+764,Kwale Construction Waste Reuse 764,Kwale,Lunga Lunga,Lunga Lunga,Circular Construction Materials,Women-owned,25,Registered,2020,5,Access to finance,-4.054498,39.381519
+765,Kwale Green Compost Co 765,Kwale,Matuga,Matuga,Organic Waste,General/Other,15,Not Registered,2022,4,Technical training,-4.309527,39.544462
+766,Kwale Organic Waste Solutions 766,Kwale,Diani,Diani,Organic Waste,Women-owned,4,Registered,2019,5,Business registration support,-4.150485,39.594062
+767,Kwale Green Building Materials 767,Kwale,Kinango,Kinango,Circular Construction Materials,Women-owned,6,Registered,2017,5,Market linkages,-4.16702,39.361248
+768,Kwale Electro Recovery 768,Kwale,Msambweni,Msambweni,Electrical and Electronic Waste (E-waste),Youth-owned,2,Registered,2023,2,Equipment/machinery,-4.32089,39.425059
+769,Kwale E-Waste Hub 769,Kwale,Diani,Diani,Electrical and Electronic Waste (E-waste),Youth-owned,8,Not Registered,2022,4,Certification/standards,-4.16728,39.414222
+770,Kwale Circuit Reclaim 770,Kwale,Lunga Lunga,Lunga Lunga,Electrical and Electronic Waste (E-waste),Women-owned,2,Not Registered,2022,5,Business registration support,-4.172017,39.446615
+771,Kwale E-Waste Recyclers 771,Kwale,Lunga Lunga,Lunga Lunga,Electrical and Electronic Waste (E-waste),General/Other,2,Registered,2024,5,Equipment/machinery,-4.014235,39.40506
+772,Kwale Compost Works 772,Kwale,Diani,Diani,Organic Waste,General/Other,10,Registered,2017,3,Technical training,-4.29891,39.405828
+773,Kwale Textile Waste Hub 773,Kwale,Kinango,Kinango,Textiles,General/Other,25,Registered,2016,2,Market linkages,-4.336586,39.594031
+774,Kwale Construction Waste Reuse 774,Kwale,Msambweni,Msambweni,Circular Construction Materials,Women-owned,6,Not Registered,2022,5,Equipment/machinery,-4.040746,39.422427
+775,Kwale Green Building Materials 775,Kwale,Lunga Lunga,Lunga Lunga,Circular Construction Materials,Women-owned,25,Registered,2024,4,Market linkages,-4.172385,39.438037
+776,Kwale EcoBrick Works 776,Kwale,Kinango,Kinango,Circular Construction Materials,Women-owned,5,Registered,2017,4,Certification/standards,-4.270284,39.414443
+777,Kwale EcoPack 777,Kwale,Matuga,Matuga,Plastics and Packaging,Women-owned,12,Registered,2015,2,Business registration support,-4.152124,39.316661
+778,Kwale Reclaimed Materials 778,Kwale,Lunga Lunga,Lunga Lunga,Circular Construction Materials,Youth-owned,1,Registered,2018,5,Market linkages,-4.083899,39.45305
+779,Kwale Textile Waste Hub 779,Kwale,Kinango,Kinango,Textiles,Women-owned,10,Not Registered,2015,5,Access to finance,-4.323627,39.464176
+780,Kwale Black Soldier Fly Farm 780,Kwale,Lunga Lunga,Lunga Lunga,Organic Waste,Youth-owned,2,Not Registered,2023,3,Access to finance,-4.204723,39.581573
+781,Kwale Thrift & Mend 781,Kwale,Lunga Lunga,Lunga Lunga,Textiles,Youth-owned,3,Registered,2020,4,Certification/standards,-4.288339,39.54869
+782,Kwale Textile Upcyclers 782,Kwale,Msambweni,Msambweni,Textiles,Youth-owned,8,Not Registered,2016,3,Technical training,-4.246811,39.307648
+783,Kwale Packaging Solutions 783,Kwale,Lunga Lunga,Lunga Lunga,Plastics and Packaging,Women-owned,2,Registered,2020,5,Equipment/machinery,-4.083332,39.48307
+784,Kwale E-Waste Hub 784,Kwale,Kinango,Kinango,Electrical and Electronic Waste (E-waste),Women-owned,12,Not Registered,2025,1,Technical training,-4.330535,39.282506
+785,Kwale Packaging Solutions 785,Kwale,Diani,Diani,Plastics and Packaging,Women-owned,20,Registered,2017,4,Access to finance,-4.119542,39.317306
+786,Kwale Green Compost Co 786,Kwale,Lunga Lunga,Lunga Lunga,Organic Waste,Women-owned,1,Registered,2022,5,Equipment/machinery,-4.072571,39.465613
+787,Kwale Construction Waste Reuse 787,Kwale,Lunga Lunga,Lunga Lunga,Circular Construction Materials,Women-owned,20,Registered,2020,5,Technical training,-4.353905,39.608162
+788,Kwale Textile Waste Hub 788,Kwale,Diani,Diani,Textiles,Women-owned,2,Registered,2016,1,Technical training,-4.252828,39.33021
+789,Kwale Textile Waste Hub 789,Kwale,Matuga,Matuga,Textiles,Women-owned,6,Registered,2022,3,Certification/standards,-4.037919,39.348006
+790,Kwale Organic Waste Solutions 790,Kwale,Matuga,Matuga,Organic Waste,Women-owned,3,Registered,2015,1,Certification/standards,-4.231113,39.437628
+791,Kwale EcoBrick Works 791,Kwale,Msambweni,Msambweni,Circular Construction Materials,Women-owned,12,Registered,2025,4,Equipment/machinery,-4.02958,39.514274
+792,Kwale EcoPack 792,Kwale,Msambweni,Msambweni,Plastics and Packaging,Women-owned,8,Not Registered,2020,1,Technical training,-4.032774,39.56588
+793,Kwale Circuit Reclaim 793,Kwale,Msambweni,Msambweni,Electrical and Electronic Waste (E-waste),Youth-owned,25,Registered,2019,1,Market linkages,-4.309185,39.405473
+794,Kwale Organic Waste Solutions 794,Kwale,Msambweni,Msambweni,Organic Waste,General/Other,10,Not Registered,2015,2,Market linkages,-4.060239,39.497185
+795,Kwale Black Soldier Fly Farm 795,Kwale,Diani,Diani,Organic Waste,General/Other,5,Registered,2022,4,Access to finance,-4.278829,39.342691
+796,Kwale Textile Waste Hub 796,Kwale,Lunga Lunga,Lunga Lunga,Textiles,PWD-owned,2,Registered,2016,5,Market linkages,-4.116558,39.475755
+797,Kwale Thrift & Mend 797,Kwale,Diani,Diani,Textiles,PWD-owned,20,Registered,2025,3,Market linkages,-4.046128,39.589261
+798,Kwale Reclaimed Materials 798,Kwale,Matuga,Matuga,Circular Construction Materials,Youth-owned,20,Not Registered,2015,4,Certification/standards,-4.109055,39.590017
+799,Kwale Black Soldier Fly Farm 799,Kwale,Kinango,Kinango,Organic Waste,Women-owned,1,Not Registered,2018,3,Business registration support,-4.255447,39.516962
+800,Kwale PET Collectors 800,Kwale,Kinango,Kinango,Plastics and Packaging,Women-owned,15,Not Registered,2018,3,Access to finance,-4.162432,39.385947
+801,Kwale E-Waste Recyclers 801,Kwale,Lunga Lunga,Lunga Lunga,Electrical and Electronic Waste (E-waste),Youth-owned,10,Registered,2015,1,Access to finance,-4.283224,39.390621
+802,Kwale Construction Waste Reuse 802,Kwale,Matuga,Matuga,Circular Construction Materials,General/Other,12,Not Registered,2016,1,Technical training,-4.265125,39.442588
+803,Kwale Reclaimed Materials 803,Kwale,Kinango,Kinango,Circular Construction Materials,Women-owned,1,Registered,2016,1,Access to finance,-4.079025,39.497226
+804,Kwale Textile Upcyclers 804,Kwale,Kinango,Kinango,Textiles,Women-owned,1,Registered,2019,1,Certification/standards,-4.334376,39.491966
+805,Kwale Electro Recovery 805,Kwale,Msambweni,Msambweni,Electrical and Electronic Waste (E-waste),General/Other,10,Registered,2021,5,Access to finance,-4.131871,39.420099
+806,Kwale Reclaimed Materials 806,Kwale,Msambweni,Msambweni,Circular Construction Materials,General/Other,6,Registered,2016,4,Business registration support,-4.231838,39.609631
+807,Kwale Plastics Recyclers 807,Kwale,Diani,Diani,Plastics and Packaging,General/Other,20,Registered,2020,5,Market linkages,-4.097312,39.485539
+808,Kwale Electro Recovery 808,Kwale,Diani,Diani,Electrical and Electronic Waste (E-waste),General/Other,5,Registered,2023,1,Market linkages,-4.194035,39.359635
+809,Kwale BioWaste Traders 809,Kwale,Diani,Diani,Organic Waste,Youth-owned,6,Registered,2015,3,Business registration support,-4.03542,39.551278
+810,Kwale Reclaimed Materials 810,Kwale,Lunga Lunga,Lunga Lunga,Circular Construction Materials,General/Other,6,Registered,2018,1,Equipment/machinery,-4.333466,39.454659
+811,Kwale Textile Upcyclers 811,Kwale,Matuga,Matuga,Textiles,PWD-owned,25,Registered,2024,4,Business registration support,-4.285932,39.443361
+812,Kwale Construction Waste Reuse 812,Kwale,Diani,Diani,Circular Construction Materials,Youth-owned,4,Not Registered,2025,1,Equipment/machinery,-4.246233,39.390403
+813,Kwale Fabric Reclaim 813,Kwale,Kinango,Kinango,Textiles,PWD-owned,8,Registered,2017,3,Certification/standards,-4.129489,39.358147
+814,Kwale PET Collectors 814,Kwale,Msambweni,Msambweni,Plastics and Packaging,Youth-owned,4,Registered,2020,3,Equipment/machinery,-4.327557,39.282906
+815,Kwale Plastics Recyclers 815,Kwale,Lunga Lunga,Lunga Lunga,Plastics and Packaging,General/Other,12,Registered,2018,2,Technical training,-4.282883,39.334793
+816,Kwale Packaging Solutions 816,Kwale,Matuga,Matuga,Plastics and Packaging,PWD-owned,2,Registered,2018,4,Certification/standards,-4.026266,39.279658
+817,Kwale Black Soldier Fly Farm 817,Kwale,Lunga Lunga,Lunga Lunga,Organic Waste,Youth-owned,8,Not Registered,2016,5,Business registration support,-4.221029,39.406146
+818,Kwale Packaging Solutions 818,Kwale,Lunga Lunga,Lunga Lunga,Plastics and Packaging,Women-owned,15,Registered,2025,3,Technical training,-4.067937,39.341105
+819,Kwale Textile Upcyclers 819,Kwale,Diani,Diani,Textiles,Youth-owned,4,Registered,2019,2,Technical training,-4.142663,39.579697
+820,Kwale Textile Waste Hub 820,Kwale,Diani,Diani,Textiles,Youth-owned,15,Registered,2023,4,Certification/standards,-4.0352,39.347426
